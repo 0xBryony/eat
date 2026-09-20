@@ -283,7 +283,7 @@ body.dark #hud, body.dark #hud .keys { color: rgba(247,245,242,0.35); }
     <div class="s2-wrap">
       <div class="phone rv rv-scale" data-r="1">
         <div class="phone-inner" id="phoneInner">
-          <video id="teaser" src="assets/teaser.mp4?v=1" muted playsinline preload="auto"></video>
+          <video id="teaser" muted playsinline preload="auto"></video>
           <div class="video-fallback">teaser 未就绪<br/>请将视频放到<br/><b>presentation/assets/teaser.mp4</b></div>
         </div>
       </div>
@@ -292,7 +292,7 @@ body.dark #hud, body.dark #hud .keys { color: rgba(247,245,242,0.35); }
         <p class="s2-line rv" data-r="3">想吃汉堡也行。</p>
         <p class="s2-line rv" data-r="4">不知道，就别装知道。</p>
         <p class="s2-line accent rv" data-r="5">热量我算，你负责吃。</p>
-        <p class="t-cap s2-hint rv" data-r="1">按 D 打开真实 App · 按 P 回到这里</p>
+        <p class="t-cap s2-hint rv" data-r="1" id="s2-hint">按 D 打开真实 App · 按 P 回到这里</p>
       </div>
     </div>
   </section>
@@ -537,6 +537,39 @@ body.dark #hud, body.dark #hud .keys { color: rgba(247,245,242,0.35); }
 (function () {
   'use strict';
 
+  /* STANDALONE is flipped to true by build-standalone.py when every asset
+     (logo + videos) is inlined into one portable HTML file. In that mode the
+     affordances that need the sibling App build are hidden. */
+  var STANDALONE = false;
+
+  /* ---- media resolver -------------------------------------------------
+     On the site the videos are ordinary files. In the standalone build the
+     same bytes arrive as base64 in window.__EAT_MEDIA__ and are turned into
+     Blob URLs — blob URLs behave like real files (seekable), whereas inlined
+     data: URIs are unreliable for <video> across browsers. */
+  var MEDIA_FILES = { teaser: 'assets/teaser.mp4?v=1', egg: 'assets/easter-demo.mp4?v=2' };
+  var _blobCache = {};
+  function b64ToBlobUrl(b64) {
+    var chunks = b64.match(/.{1,32768}/g) || [];
+    var parts = [];
+    for (var i = 0; i < chunks.length; i++) {
+      var bin = atob(chunks[i]);
+      var bytes = new Uint8Array(bin.length);
+      for (var j = 0; j < bin.length; j++) bytes[j] = bin.charCodeAt(j);
+      parts.push(bytes);
+    }
+    return URL.createObjectURL(new Blob(parts, { type: 'video/mp4' }));
+  }
+  function mediaUrl(key) {
+    var embedded = (window.__EAT_MEDIA__ || {})[key];
+    if (!embedded) return MEDIA_FILES[key];
+    if (!_blobCache[key]) {
+      try { _blobCache[key] = b64ToBlobUrl(embedded); }
+      catch (e) { _blobCache[key] = MEDIA_FILES[key]; }
+    }
+    return _blobCache[key];
+  }
+
   var scenes = Array.prototype.slice.call(document.querySelectorAll('.scene'));
   var N = scenes.length;
   var cur = 0;
@@ -761,7 +794,7 @@ body.dark #hud, body.dark #hud .keys { color: rgba(247,245,242,0.35); }
     clearOverlayMedia();
     var v = document.createElement('video');
     v.className = 'ov-video';
-    v.src = 'assets/easter-demo.mp4?v=2';
+    v.src = mediaUrl('egg');
     v.autoplay = true;
     v.playsInline = true;
     v.muted = true;              // muted so autoplay is always allowed
@@ -811,7 +844,8 @@ body.dark #hud, body.dark #hud .keys { color: rgba(247,245,242,0.35); }
     } else if (k >= '1' && k <= '9') {
       show(+k - 1);
     } else if (k === '0') {
-      show(N - 1);
+      var eggIdx = scenes.findIndex(function (s) { return s.id === 's9'; });
+      show(eggIdx >= 0 ? eggIdx : N - 1);
     } else if (k === 'f' || k === 'F') {
       toggleFullscreen();
     } else if (k === 'p' || k === 'P') {
@@ -819,7 +853,7 @@ body.dark #hud, body.dark #hud .keys { color: rgba(247,245,242,0.35); }
     } else if (k === 'r' || k === 'R') {
       reset();
     } else if (k === 'd' || k === 'D') {
-      openOverlay('app', '../index.html?demo=1#/today');
+      if (!STANDALONE) openOverlay('app', '../index.html?demo=1#/today');
     } else if (k === 'Escape') {
       // browser exits fullscreen natively; nothing to do
     }
@@ -837,6 +871,15 @@ body.dark #hud, body.dark #hud .keys { color: rgba(247,245,242,0.35); }
   }
 
   /* -------- boot: scene 01 (or ?scene=&step= deep link) -------- */
+  document.getElementById('teaser').src = mediaUrl('teaser');
+  if (STANDALONE) {
+    // No sibling App build in a single portable file: drop the affordances
+    // that would otherwise point at ../index.html.
+    var liveBtn = document.getElementById('eggFallbackBtn');
+    if (liveBtn) liveBtn.remove();
+    var dHint = document.getElementById('s2-hint');
+    if (dHint) dHint.textContent = '视频自动播放 · 按 → 继续';
+  }
   show(0);
 
   // Chrome suspends media loading while the tab is hidden; if a video was
