@@ -1,0 +1,421 @@
+sku,brand,existing_info,missing_info,recommended_estimation_method,worth_further_research
+familymart-cn-yanxun-jirou-shucai-shala 烟熏鸡肉蔬菜沙拉,全家便利店,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-huorun-qingshi-bei 活润0添加蔗糖轻食杯,全家便利店,"description; merchant_claim:0添加蔗糖(商品标签,非本库核实); xhs_keywords",protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-oden-bailuobo 关东煮 白萝卜,全家便利店,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-oden-moyusi 关东煮 魔芋丝/魔芋结,全家便利店,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-oden-haidaijie 关东煮 海带结,全家便利店,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-oden-jidan 关东煮 鸡蛋,全家便利店,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-oden-yudoufu 关东煮 鱼豆腐,全家便利店,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-oden-jirouwan 关东煮 鸡肉丸,全家便利店,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-oden-saniaoniuwan 关东煮 撒尿牛丸,全家便利店,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-zhaoshao-jipai-fantuan 照烧鸡排饭团,全家便利店,"description; merchant_claim:UGC/AI测评称约380–390大卡/份(未核实,不采信为营养事实); xhs_keywords",energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+familymart-cn-susong-danhuangjiang-sanjiao-fantuan 酥松蛋黄酱三角饭团,全家便利店,"description; merchant_claim:UGC/AI测评称约255大卡/份(未核实,不采信); 同源称金枪鱼沙拉三角饭团513大卡/份(疑失真); xhs_keywords",energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+foodbowl-cn-mizhi-jitui-superbowl 蜜汁鸡腿超级碗,超级碗 FOODBOWL,description; merchant_claim:官网标注 550Kcal/份（约473克/份）; 十年销冠; 门店现烤; 菜单/媒体笼统宣称「一份约400-600大卡」; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-sanwenyu-duodanbai-reweng-shala 三文鱼多蛋白热烹沙拉,超级碗 FOODBOWL,description; merchant_claim:官网标注 510Kcal/份（约440克/份）; 精准控卡; 3种优质慢碳水; 菜单/媒体笼统宣称「一份约400-600; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-guomu-yanxun-jixiong-superbowl 果木烟熏鸡胸超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; 菜单每款配; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-fanqie-niunan-superbowl 番茄牛腩超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; 菜单每款配; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-yamaziyou-kaoxia-superbowl 亚麻籽油烤虾超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; 菜单每款配; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-jinqiangyu-wenquandan-superbowl 金枪鱼温泉蛋超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; 菜单每款配; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-xiangjian-sanwenyu-superbowl 香煎三文鱼超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; 菜单每款配; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-riben-qiwei-doufu-superbowl 日式七味豆腐超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; 菜单每款配; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-taile-xiaren-superbowl 泰辣虾仁超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-taishi-baixia-superbowl 泰式白虾超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-ningmeng-jixiongrou-superbowl 柠檬鸡胸肉超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-hanshi-paocai-jixiongrou-superbowl 韩式泡菜鸡胸肉超级碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-chaoji-doufu-wan 超级豆腐碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-chaoji-niurou-wan 超级牛肉碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-chaoji-diaoyu-wan 超级鲷鱼碗,超级碗 FOODBOWL,description; merchant_claim:菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-diy-basic-bowl 基础碗（自选搭配 DIY）,超级碗 FOODBOWL,description; merchant_claim:菜单每项配餐旁标注重量与卡路里（热量可视化）; 中国风味 热烹轻食; 菜单/媒体笼统宣称「一份约400-600大卡」——; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-hailu-duodanbai-reweng-shala 海陆多蛋白热烹沙拉,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 精准控卡; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-caijiao-jixiong-shuangdanbai-reweng-shala 彩椒鸡胸双蛋白热烹沙拉,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 精准控卡; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-dizhonghai-xiari-shala 地中海夏日沙拉,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 精准控卡; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-hailu-shuangdanbai-dizhonghai-shala 海陆双蛋白地中海夏日沙拉,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 精准控卡; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-yanxun-jixiong-dizhonghai-shala 果木烟熏鸡胸地中海沙拉,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 精准控卡; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-sanwenyu-shuangdanbai-dizhonghai-shala 三文鱼双蛋白地中海夏日沙拉,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 精准控卡; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-huangshizi-niurou-xianshuguo 黄柿子牛肉鲜蔬锅,超级碗 FOODBOWL,description; merchant_claim:官方标注：含汤约800g/份，620卡，蛋白28g，脂肪42g，碳水29g; 天然食材成汤; 减油减盐，汤也放心喝; 6; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-huangshizi-jirou-xianshuguo 黄柿子鸡肉鲜蔬锅,超级碗 FOODBOWL,description; merchant_claim:官方标注：含汤约780g/份，435卡，蛋白35g，脂肪19g，碳水33g; 低脂高蛋白; 减油减盐; 菜单/媒体笼统宣; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-xinjiang-fanqie-jirou-xianshuguo 新疆番茄鸡肉鲜蔬锅,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 减油减盐，汤也放心喝; 门店每日新鲜现做; 菜单/媒体笼统宣称「一份约400-600大卡」——为 me; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-xinjiang-fanqie-niurou-xianshuguo 新疆番茄牛肉鲜蔬锅,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 减油减盐，汤也放心喝; 门店每日新鲜现做; 菜单/媒体笼统宣称「一份约400-600大卡」——为 me; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-dongyingong-jirou-xianshuguo 冬阴功鸡肉鲜蔬锅,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 减油减盐，汤也放心喝; 门店每日新鲜现做; 菜单/媒体笼统宣称「一份约400-600大卡」——为 me; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-dongyingong-niurou-xianshuguo 冬阴功牛肉鲜蔬锅,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 减油减盐，汤也放心喝; 门店每日新鲜现做; 菜单/媒体笼统宣称「一份约400-600大卡」——为 me; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-yaochun-xiansun-jirou-caifan 咬春鲜笋鸡肉菜饭,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 中国风味 热烹轻食; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_clai; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-banban-jirou-shishu-banmian 半半鸡肉时蔬拌面,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 中国风味 热烹轻食; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_clai; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-banban-jisi-shishu-banmian 半半鸡丝时蔬拌面,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; 中国风味 热烹轻食; 菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_clai; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-meiyuzi-tangxindan 美玉子溏心蛋,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-meiyuzi-wenquandan 美玉子温泉蛋,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-yumibei 玉米杯,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-houdanshao 厚蛋烧,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-binfen-shishu-cuipichang 缤纷时蔬脆皮肠,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-dika-nuoxiang-kaonangua 低卡糯香烤南瓜,超级碗 FOODBOWL,description; merchant_claim:商品名含「低卡」——命名营销语，非营养事实; 菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-lingtang-dika-dongningcha 零糖低卡冻柠茶,超级碗 FOODBOWL,description; merchant_claim:商品名含「零糖低卡」——命名营销语；第三方计算器给1 kcal，与之相符; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-fengmi-hongzaocha 蜂蜜红枣茶,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-nuanxiang-nanguatang 暖香南瓜汤,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-tianran-fenxian-yeshui 天然粉鲜椰水,超级碗 FOODBOWL,description; merchant_claim:商品名含「天然」——命名营销语; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-miwu-zishu-yanmainai 迷雾紫薯燕麦奶,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-meishi-kafei 美式咖啡,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-doujiang 豆浆,超级碗 FOODBOWL,description; merchant_claim:菜单标注卡路里; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+foodbowl-cn-baixiangguo-shui 百香果水,超级碗 FOODBOWL,description; merchant_claim:自营饮品; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-orlean-jin-cui-kao-ji-tui-bao 奥尔良劲脆烤鸡腿堡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-jin-cui-chao-ba-bao 劲脆超霸堡,肯德基,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-zhi-zhi-he-niu-bao-zhi-shi-yan-xun 汁汁和牛堡（芝士烟熏）,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-zhi-shi-zhi-zhi-nen-niu-bao 芝士汁汁嫩牛堡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-yi-shi-rou-jiang-zhi-zhi-nen-niu-bao 意式肉酱汁汁嫩牛堡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-ji-tui-rou-ba-bao 鸡腿肉霸堡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-wo-ai-yuan-wei-ji-rou-ba-bao 我爱原味鸡肉霸堡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-pei-gen-ji-tui-rou-ba-bao 培根鸡腿肉霸堡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-huang-jin-spa-ji-pai-bao 黄金SPA鸡排堡（藤椒风味）,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-san-chong-xiang-la-ji-tui-bao 三重香辣鸡腿堡,肯德基,description; merchant_claim:仙逆动画联名; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-ao-li-ao-yuan-wei-ji-han-bao 奥利奥原味鸡汉堡,肯德基,description; merchant_claim:奥利奥联名; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-shou-bo-xiang-la-xiao-long-xia-kao-ji-tui-bao 手剥香辣小龙虾烤鸡腿堡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-nen-niu-wu-fang 嫩牛五方,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-gong-cai-nen-niu-wu-fang 贡菜嫩牛五方,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hong-yun-nen-niu-wu-fang 红运嫩牛五方,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-chuan-xiang-bo-bo-ji-da-xia-ta-ke 川香钵钵鸡风味大虾塔可,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-shun-zhi-yuan-wei-ji 吮指原味鸡,肯德基,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-huang-jin-cui-pi-ji 黄金脆皮鸡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-ju-zhi-bao-ji 香焗纸包鸡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-mi-zhi-quan-ji 秘汁全鸡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-guo-mu-yan-xun-shao-kao-zheng-ji-jia 果木烟熏烧烤整鸡架,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-ma-la-da-ji-jia 麻辣大鸡架,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-tang-ka-li-yuan-wei-ji 汤咖喱原味鸡（含土豆泥）,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-jie-me-duo-hai-tai-re-la-cui-pi-ji 芥么多海苔热辣脆皮鸡,肯德基,description; merchant_claim:炸鸡节第二波新品; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-bao-cui-ma-su-su-xiang-gu-ji 薄脆麻酥酥香骨鸡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-la-ji-chi 香辣鸡翅,肯德基,description; xhs_keywords,protein; carbs; fat,xiaohongshu_weighed_search,yes
+kfc-cn-bao-cui-jin-sha-ji-chi 薄脆金沙鸡翅,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-bao-cui-chi 薄脆翅,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-te-da-hao-re-la-chi-gen 特大号热辣翅根,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xin-orlean-kao-chi-gen-tong 新奥尔良烤翅根桶（十根）,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-jin-bao-ji-mi-hua 劲爆鸡米花,肯德基,description; xhs_keywords,protein; carbs; fat,xiaohongshu_weighed_search,yes
+kfc-cn-huang-jin-ji-kuai 黄金鸡块（5块）,肯德基,description; xhs_keywords,protein; carbs; fat,xiaohongshu_weighed_search,yes
+kfc-cn-li-li-zi-ran-ji-kuai 粒粒孜然鸡块,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-cui-bei-bei-ji-kuai 香脆贝贝鸡块,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-yuan-wei-ji-ban-tu-dou-ni 原味鸡拌土豆泥,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-tian-yu-mi-bei 香甜玉米杯,肯德基,description; xhs_keywords,protein; carbs; fat,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-tian-su-mi-bang 香甜粟米棒,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-si-wei-xiao-shi-pin-pan 四味小食拼盘,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-wu-ke-dan-sha-la-cui-cui-chang-k-sa 五颗蛋沙拉脆脆肠K萨,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-pu-shi-dan-ta 葡式蛋挞,肯德基,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hong-dou-pai 红豆派,肯德基,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hong-dou-nai-huang-dan-ta 红豆奶皇蛋挞,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-qian-mu-mo-cha-hua-tong 千目抹茶花筒,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-yuan-wei-sheng-dai 原味圣代,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hei-tang-zhen-zhu-sheng-dai 黑糖珍珠圣代,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-chao-nuo-nuo-ma-shu-sheng-dai 超糯糯麻薯圣代,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-nong-nong-mo-cha-sheng-dai 浓浓抹茶圣代,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xue-cai-sun-ding-ji-rou-zhou 雪菜笋丁鸡肉粥,肯德基,description; merchant_claim:轻负担（营销口径）; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-jin-tang-chong-cao-hua-ji-huang-zhou 金汤虫草花鸡煌粥,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-sheng-gun-niu-rou-zhou 生滚牛肉粥,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-zhi-shi-hou-dan-shao-pa-ni-ni 芝士厚蛋烧帕尼尼,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-zhi-shi-niu-rou-dan-pa-ni-ni 芝士牛肉蛋帕尼尼,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-luo-le-qing-jiang-nen-ji-pa-ni-ni 罗勒青酱嫩鸡帕尼尼,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-rou-su-you-tiao-fan-tuan 肉酥油条饭团,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-da-bing-juan-xiang-kao-ji-pa-dan 大饼卷香烤鸡扒蛋,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hei-jiao-niu-rou-dan-da-bing-juan 黑椒牛肉蛋大饼卷,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-k-ji-fa-mian-xiao-long-bao K记发面小笼包（5只）,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-cui-shu-bing 香脆薯饼,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-cha-ye-dan 茶叶蛋,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-tai-yang-dan 太阳蛋,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hou-dan-shao 厚蛋烧,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hu-luo-bo-hua-sheng-yun-duo-tu-si 乳酪花生云朵吐司,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-kao-su-pi-niu-rou-xian-bing 香烤酥皮牛肉馅饼,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-re-niu-nai 热牛奶,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-shun-zhi-yuan-wei-ji-men-ban-fan 吮指原味鸡焖拌饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-zha-ji-men-ban-fan 炸鸡焖拌饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-gang-shi-shao-wei-cui-pi-da-ji-tui-fan 港式烧味脆皮大鸡腿饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-lv-dou-yi-ren-qing-yang-zhou 绿豆薏仁轻养粥（常温版）,肯德基,description; merchant_claim:轻养（营销标签）; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-hai-tai-yan-shao-da-ji-tui-fan 海苔岩烧大鸡腿饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xin-orlean-kao-ji-tui-fan 新奥尔良烤鸡腿饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-xiang-la-ji-liu-fan 香辣鸡柳饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-ri-shi-ka-li-ji-rou-fan 日式咖喱鸡饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-tai-shi-lu-rou-fan 台式卤肉饭,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-sheng-zha-da-ji-tui-chuan 生炸大鸡腿串,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-zha-ji-jia-he 炸鸡架盒（川香麻辣/秘制飘香）,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-ji-rou-duo-duo-shou-ba-chuan 鸡肉多多手把串（20串）,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-chao-su-da-you-yu-chuan 超酥大鱿鱼串,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-bao-zhi-san-ning-cha 爆汁三柠茶,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-gui-hua-suan-mei-tang 桂花酸梅汤,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-qing-liang-lv-dou-yin 清凉绿豆饮,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-jiu-long-jin-yu-qing-ru-cha 九龙金玉轻乳茶,肯德基,description; merchant_claim:轻乳（营销标签）; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-yang-zhi-gan-lu 杨枝甘露,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-nong-cui-mei-shi 浓萃美式,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-nong-cui-na-tie 浓萃拿铁,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-gui-xia-mei-shi 瑰夏美式,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-gui-xia-na-tie 瑰夏拿铁,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-man-bei-sheng-ye-na-tie 满杯生椰拿铁,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-qi-pao-mei-shi 气泡美式,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-mei-shi 美式,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-na-tie 拿铁,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-mo-ka 摩卡,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-ka-bu-qi-nuo 卡布奇诺,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-jiao-tang-ma-qi-duo 焦糖玛奇朵,肯德基,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-kpro-kao-ji-tui-rou-gu-wu-neng-liang-wan 烤鸡腿肉烤蔬谷物能量碗（黑椒香草）,肯德基,description; merchant_claim:轻食; 能量碗; KPRO 试行卡路里标注（官方口径，未见公开数据）; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-kpro-hei-jiao-niu-rou-neng-liang-wan 黑椒牛肉能量碗,肯德基,description; merchant_claim:轻食; 能量碗; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-kpro-xiang-kao-san-wen-yu-neng-liang-wan 香烤三文鱼能量碗,肯德基,description; merchant_claim:轻食; 能量碗; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-kpro-niu-you-guo-sha-la 牛油果沙拉,肯德基,description; merchant_claim:轻食; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+kfc-cn-jing-dian-quan-jia-tong 经典全家桶,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-dan-ren-si-jian-tao 单人四件套,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-san-jia-san-tao-can 3+3套餐,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-zhou-mo-feng-kuang-pin-3-plus-1 周末疯狂拼 3+1,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-re-la-xiang-gu-ji-san-jian-tao 热辣香骨鸡三件套,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-xin-orlean-kao-chi-san-jian-tao 新奥尔良烤翅三件套,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-han-bao-dan-ren-can 汉堡单人餐,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-xia-wu-cha-san-jian-tao 下午茶三件套,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-zao-can-san-jian-tao 早餐三件套,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-shi-chi-yi-tong 十翅一桶,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-wang-lin-tong-kuan-tao-can 王林同款套餐（仙逆联名）,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+kfc-cn-kuang-huan-chang-xuan-tong 狂欢畅选桶,肯德基,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+lawson-cn-devil-onigiri-original 恶魔的饭团(原味),罗森,description; merchant_claim:日本罗森创销售记录爆红款（上市6天卖120万只）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-devil-onigiri-pizza 恶魔的饭团(意式披萨味),罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-devil-onigiri-osaka 恶魔饭团(大阪烧烤味),罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-devil-onigiri-sukiyaki 恶魔饭团(寿喜烧牛肉),罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-korean-bbq-supreme-onigiri 韩式烤肉至尊饭团,罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-wholewheat-smoked-chicken-sandwich 全麦烟熏鸡肉三明治,罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-french-ham-cheese-sandwich 法式火腿芝士三明治,罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-colorful-five-sandwich 缤纷五彩三明治,罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-double-orleans-chicken-fillet-sandwich 双层奥尔良鸡腿排三明治,罗森,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-lowfat-chicken-breast-balls 低脂鸡胸肉丸,罗森,description; merchant_claim:低脂; 高蛋白（营销/UGC口径）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-oden-daikon 关东煮 萝卜,罗森,description; merchant_claim:低卡（红榜口径）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-oden-kelp 关东煮 昆布/海带结,罗森,description; merchant_claim:低卡（红榜口径）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-oden-konjac-knot 关东煮 粉丝结/魔芋丝,罗森,description; merchant_claim:低卡（红榜口径）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-oden-shiitake 关东煮 香菇,罗森,description; merchant_claim:低卡（红榜口径）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-oden-beef-tendon 关东煮 牛筋串,罗森,description; merchant_claim:低卡（红榜口径）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+lawson-cn-oden-egg 关东煮 鸡蛋,罗森,description; merchant_claim:低卡（红榜口径）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+mcd-cn-crispy-bamboo-chicken-wrap 酥酥多笋卷,麦当劳,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+mcd-cn-milkshake 奶昔（草莓/香草/朱古力）,麦当劳,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+micun-cn-jiandan-shishu-shiguo-banfan 煎蛋时蔬石锅拌饭,米村拌饭,description; merchant_claim:轻盈又满足; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-kaoniurou-shiguo-banfan 烤牛肉石锅拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-mizhi-roujiang-shiguo-banfan 秘制肉酱石锅拌饭,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-zhaoshao-jitui-shiguo-banfan 照烧鸡腿肉石锅拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-feiyi-shiguo-banfan 非遗石锅拌饭（基础款/素拌饭）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-kaoniurou-banfan 烤牛肉拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-jinqiangyu-banfan 金枪鱼拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-zhaoshao-jitui-banfan 照烧鸡腿肉拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-gali-niurou-banfan 咖喱牛肉拌饭（咖喱牛肉饭）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-xiezi-shala-banfan 蟹籽沙拉拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-zhishi-roujiang-banfan 芝士肉酱拌饭,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-kids-kaoniurou-banfan 儿童烤牛肉拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-kids-jinqiangyu-banfan 儿童金枪鱼拌饭,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-kids-zhaoshao-jitui-banfan 儿童照烧鸡腿肉拌饭,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-kids-kaoniurou-shouzhuafan 儿童烤牛肉手抓饭,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-kids-jinqiangyu-shouzhuafan 儿童金枪鱼手抓饭,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-light-niuyouguo-shishu 牛油果时蔬轻食拌饭,米村拌饭,description; merchant_claim:轻食; 健康饮食; 干净饮食; 饱腹少负担; 轻食也丰富; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-light-jituirou-niuyouguo 鸡腿肉牛油果轻食拌饭（媒体口径：照烧鸡腿肉款）,米村拌饭,description; merchant_claim:轻食; 健康饮食; 干净饮食; 饱腹少负担; 轻食也丰富; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-light-jinqiangyu-niuyouguo 金枪鱼牛油果轻食拌饭,米村拌饭,description; merchant_claim:轻食; 健康饮食; 干净饮食; 饱腹少负担; 轻食也丰富; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-light-kaoniurou-niuyouguo 烤牛肉牛油果轻食拌饭,米村拌饭,description; merchant_claim:轻食; 健康饮食; 干净饮食; 饱腹少负担; 轻食也丰富; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-shiban-jidan 石板鸡蛋,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-shiban-roujiang-doufu 石板肉酱豆腐（UGC 亦记作石板豆腐/铁板豆腐）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-roumo-qiezi-bao 肉末茄子煲,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-zhishi-niangao-ji 芝士年糕鸡,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-xiangla-xiaochao-niurou 香辣小炒牛肉,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-roumo-suan-doujiao 肉末酸豆角,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-suancai-shao-feichang 酸菜烧肥肠,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-roumo-doufu 肉末豆腐,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-wuhuarou-jian-suancai 五花肉煎酸菜,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-zhishi-yumi 芝士玉米,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-zhaopai-feiniu-guo 招牌肥牛锅（UGC 记作安格斯肥牛）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-shao-niurou-dun-tudou 烧牛肉炖土豆（UGC 亦记作土豆炖牛肉/炖牛肉炖土豆）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-lamen-mingtaiyu 辣焖明太鱼（UGC 亦记作辣闷明太鱼）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-lamen-xiao-surou 辣焖小酥肉,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-wuhuarou-paocai-guo 五花肉泡菜锅,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-jingdian-sanbei-ji 经典三杯鸡,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-jituirou-dun-tudou 鸡腿肉炖土豆,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-gududu-heiya-bao 咕嘟嘟黑鸭煲,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-shiguo-dajiang-tang 石锅大酱汤,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-dun-niurou-tang 炖牛肉汤,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-xiangla-youyu 香辣鱿鱼（UGC 亦记作石板鱿鱼）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-xiangjian-qinghuayu 香煎青花鱼,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-chaoxianzu-michang 朝鲜族米肠（UGC 亦记作米肠）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-hongshao-shenhai-xueyu 红烧深海鳕鱼,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-fengwei-zhaji 风味炸鸡,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-tengjiao-xiao-surou 藤椒小酥肉,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-jiangxiang-niurou-li 酱香牛肉粒,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-shiguo-caixin 石锅菜心,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-add-jidan 单加煎蛋（可生食鸡蛋）,米村拌饭,description; xhs_keywords,carbs; fat; sodium,component_estimate,yes
+micun-cn-add-bocai 单加菠菜,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-add-xingbaogu 单加杏鲍菇,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-add-yumili 单加甜玉米粒,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-add-jinqiangyu 单加水浸金枪鱼,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-add-huluobo 单加胡萝卜,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-add-haitai-sui 单加芝麻海苔碎,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-bai-mifan 白米饭（五常稻花香米）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-wugu-zaliang-fan 五谷杂粮饭（轻食系列主食）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-shanquan-da-lengmian 山泉大冷面（UGC 记作冷面）,米村拌饭,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-haidai-tang 海带汤（外卖名：解腻海菜汤）,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-labaicai-paocai 辣白菜 / 泡菜（免费小菜）,米村拌饭,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-combo-jinqiangyu-haicaitang-labaicai 金枪鱼拌饭+解腻海菜汤+辣白菜 单人餐,米村拌饭,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-combo-zhaoshao-jitui-haicaitang-labaicai 照烧鸡腿肉拌饭+解腻海菜汤+辣白菜 单人餐,米村拌饭,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-combo-feiyi-shiguo-haicaitang 非遗石锅拌饭+解腻海菜汤 单人餐,米村拌饭,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+micun-cn-diy-pinhaofan-fitness-bowl 健身圈『拼好饭』DIY 组合（儿童金枪鱼拌饭不放酱 + 玉米粒换菠菜 + 3份菠菜 + 1煎蛋）,米村拌饭,description; combo_components; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-xiangjian-jixiong-limai-zaliang-wan 香煎鸡胸藜麦杂粮碗（外卖亦作『烤鸡胸藜麦杂粮碗/鸡胸肉杂粮碗』）,沙野轻食,description; merchant_claim:外卖平台标注380-480大卡/份（AIGC文转述，未直接抓取，blocked）; 低卡/减脂标签; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-boyan-kao-shouqiangtui-zaliang-wan 薄盐烤手枪腿杂粮碗,沙野轻食,description; merchant_claim:整体热量约400-450大卡、脂肪<15g、蛋白约30g（AIGC转述）; 薄盐腌制、低负担; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-taishi-dabao-jixiongruo-sui-culiang-wan 泰式打抛鸡胸肉碎粗粮碗,沙野轻食,description; merchant_claim:约350大卡/份（AIGC转述）; 清淡、低负担; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-heijiao-niurou-sanmingzhi 黑椒牛肉三明治,沙野轻食,description; merchant_claim:单份热量控制在350-400大卡（AIGC转述）; 低脂高蛋白; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-shuizhu-dan-jialiao 水煮蛋（加料）,沙野轻食,description; xhs_keywords,sodium,component_estimate,yes
+shaye-cn-jixiongruo-jialiao 鸡胸肉加料,沙野轻食,description; merchant_claim:加一份鸡胸肉≈150大卡（AIGC转述）; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-xiaren-jialiao 虾仁加料,沙野轻食,description; merchant_claim:虾仁+24~80大卡/份（AIGC口径不一）; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-jingdian-jixiongruo-shala 经典鸡胸肉沙拉,沙野轻食,description; merchant_claim:嫩烤鸡胸肉约162大卡/份（AIGC转述，指蛋白部分）; 基础款80-150千卡（无酱无主食口径）; 低糖低油低盐高纤维; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-zhaopai-niupai-shala 招牌牛排沙拉,沙野轻食,description; merchant_claim:约400大卡/份、蛋白质约35g（AIGC转述）; 32元; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-tengjiao-jituirou-xilie 藤椒鸡腿肉系列（沙拉/卷）,沙野轻食,description; merchant_claim:约208大卡/份（AIGC转述）; 卷饼吃法约350千卡（AIGC转述）; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-mangguo-daxia-shala 芒果大虾沙拉,沙野轻食,description; merchant_claim:热量控制在300-400大卡、蛋白质约20g（AIGC转述）; 低脂健康高颜值; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-mangguo-tankao-jirou-shala 芒果炭烤鸡肉沙拉,沙野轻食,description; merchant_claim:约380大卡（配酸奶酱，AIGC转述博主）; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-kaisai-jirou-shala 凯撒鸡肉沙拉,沙野轻食,description; merchant_claim:约350大卡（配凯撒酱，AIGC转述）; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-lvyexianzong-xileng-niupai-shala 绿野仙踪西冷牛排沙拉,沙野轻食,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-heijiao-jixiong-limai-shala 黑椒鸡胸藜麦沙拉,沙野轻食,description; merchant_claim:280-350大卡、蛋白25-30g（AIGC转述『实测』，无方法）; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-niurou-limai-shala 牛肉藜麦沙拉,沙野轻食,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-zhaopai-kaobo-shala 招牌考伯沙拉,沙野轻食,description; merchant_claim:约38元/份; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-diy-zixuan-shala DIY自选沙拉,沙野轻食,description; merchant_claim:卡路里计算器救星（营销话术）; AI营养师小程序推荐搭配（官方加盟物料）; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-jixiong-reli-can 鸡胸热力餐,沙野轻食,description; merchant_claim:一份标准套餐约350-400大卡（AIGC转述）; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-diaoyu-reli-can 鲷鱼热力餐,沙野轻食,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-xiangkao-bashayu-pai-shala 香烤巴沙鱼排沙拉配,沙野轻食,description; merchant_claim:低卡又饱腹（门店UGC转述品牌话术）; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-jixiong-zaliang-fan 鸡胸杂粮饭,沙野轻食,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-xiangkao-jixiongruo-jianshen-can 香烤鸡胸肉健身餐（含粗粮碗；外卖亦作『香烤鸡胸健身套餐』）,沙野轻食,description; merchant_claim:热量约300-400大卡、蛋白约25g（AIGC转述）; 标价约28元/份（AIGC转述）; 0蔗糖蜂蜜芥末酱; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-shuizhu-niujianrou-jianshen-taocan 水煮牛腱肉健身套餐,沙野轻食,description; merchant_claim:低脂高蛋白; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-xiangjian-qianye-doufu-jianshen-taocan 香煎千页豆腐健身套餐,沙野轻食,description; merchant_claim:清淡不油腻; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-nenjian-niupai-jianshen-can 嫩煎牛排健身餐,沙野轻食,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-heijiao-niurou-ban-yimian 黑椒牛肉拌意面,沙野轻食,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-jixiong-moyu-liangpi-can 鸡胸魔芋凉皮餐,沙野轻食,description; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-jixiongruo-sanmingzhi 鸡胸肉三明治（牛油果酱）,沙野轻食,description; merchant_claim:18-25元; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+shaye-cn-jiaoyan-xiaotudou 椒盐小土豆（佐餐小食/亦可作主食选项）,沙野轻食,description; merchant_claim:<10元（菠菜饼同档，AIGC转述）; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-turkey-breast 火鸡胸三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-roast-beef 香烤牛肉三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-tuna 金枪鱼三明治(6英寸),Subway 赛百味中国,description; merchant_claim:高蛋白; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-teriyaki-chicken 照烧鸡三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-black-pepper-steak 黑胡椒厚切牛排三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-roasted-chicken 香烤鸡排三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-ham 西式火腿三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-spicy-italian 意大利香辣三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-subway-melt 香热奇士三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-steak-cheese 奇士牛排三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-subway-club 百味俱乐部三明治(6英寸),Subway 赛百味中国,description; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-veggie 缤纷蔬菜三明治(6英寸),Subway 赛百味中国,description; merchant_claim:低卡; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-salad-roast-beef 香烤牛肉沙拉,Subway 赛百味中国,description; merchant_claim:低卡; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-salad-roasted-chicken 香烤鸡排沙拉,Subway 赛百味中国,description; merchant_claim:低卡; xhs_keywords,protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-dadong-roast-duck-sub 大董烤鸭三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-double-dadong-roast-duck-sub 双倍大董烤鸭三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-dadong-sauce-sausage-sub 大董秘酱大肉粒香肠三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-subway-selects-sub 百味精选三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-bacon-sub 培根三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-whole-cut-chicken-thigh-sub 原切鸡腿排三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-cold-cut-trio-sub 肉香满溢三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-italian-sausage-sub 意式香肠三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-6in-golden-combo-sub 金玉满堂三明治(6英寸),Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-light-light-roast-beef-turkey 香烤牛火鸡轻盈三明治,Subway 赛百味中国,description; merchant_claim:轻盈; 低卡,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-light-light-veggie 元气彩蔬轻盈三明治,Subway 赛百味中国,description; merchant_claim:轻盈; 低卡,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-light-light-veggie-delight 缤纷蔬菜轻盈三明治,Subway 赛百味中国,description; merchant_claim:轻盈; 低卡,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-light-light-roast-beef 香烤牛肉轻盈三明治,Subway 赛百味中国,description; merchant_claim:轻盈; 低卡,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-light-light-turkey-breast 火鸡胸轻盈三明治,Subway 赛百味中国,description; merchant_claim:轻盈; 低卡,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-light-light-ham 西式火腿轻盈三明治,Subway 赛百味中国,description; merchant_claim:轻盈; 低卡,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-light-light-double-chicken 活力双鸡轻盈三明治,Subway 赛百味中国,description; merchant_claim:轻盈; 低卡,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-wrap-dadong-duck-wrap 大董烤鸭百味卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-wrap-dadong-sausage-wrap 大董秘酱大肉粒香肠百味卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-wrap-tuna-wrap 金枪鱼百味卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-wrap-black-pepper-steak-wrap 黑胡椒厚切牛排百味卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-wrap-teriyaki-chicken-wrap 照烧鸡百味卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-wrap-turkey-breast-wrap 火鸡胸百味卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bowl-black-pepper-steak-bowl 黑椒厚切牛排能量碗,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bowl-tuna-bowl 深海金枪鱼能量碗,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bowl-double-egg-veggie-bowl 缤纷双蛋能量碗,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bowl-teriyaki-chicken-bowl 秘制照烧鸡能量碗,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bowl-smoked-sausage-bowl 烟熏大肉粒香肠能量碗,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bowl-grilled-chicken-thigh-bowl 原切炙烤鸡腿排能量碗,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-egg-square-cheese-sandwich 蛋方芝士三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-ham-egg-square-cheese 火腿蛋方芝士三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-teriyaki-egg-square-cheese 照烧鸡蛋方芝士三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-sausage-egg-square-cheese 热心肠蛋方芝士三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-sausage-egg-super-grain 热心肠蛋料超能粒三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-double-meat-egg-super-grain 双拼肉肉蛋料超能粒三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-tuna-egg-super-grain 金枪鱼蛋料超能粒三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-egg-cheese-super-grain 蛋料芝士超能粒三明治,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-sausage-egg-cheese-roll 热心肠芝香蛋焙卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-teriyaki-egg-cheese-roll 芝香照烧鸡蛋焙卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-ham-egg-cheese-roll 芝香火腿蛋焙卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-bf-farm-egg-roll 农夫蛋焙卷,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-side-honey-mustard-chicken-balls 桂香蜜芥夹心鸡球,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-side-snack-box 赛赛小食盒,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-side-roasted-wings 赛赛香烤伴翅,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-side-hash-brown 赛赛烤薯饼,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-side-juicy-chicken-pieces 赛赛多汁原块鸡,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-side-western-style-wings 西域风情烤翅,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-side-corn-cup 玉米杯,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-cookie-pea-walnut-cookie 豌豆核桃曲奇,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-cookie-chocolate-chip-cookie 巧克力风味曲奇,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-cookie-oat-raisin-cookie 燕麦提子风味曲奇,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-kids-kids-teriyaki-chicken-meal 照烧鸡三明治儿童餐,Subway 赛百味中国,description; combo_components,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-kids-kids-ham-egg-meal 火腿蛋料三明治儿童餐,Subway 赛百味中国,description; combo_components,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-kids-parent-child-duo-meal 亲子双人餐,Subway 赛百味中国,description; combo_components,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-kids-family-trio-meal 家庭三人餐,Subway 赛百味中国,description; combo_components,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-drink-americano 现磨美式,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-drink-latte 现磨拿铁,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-drink-coconut-americano 椰青美式,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-drink-pear-soup-latte 小吊梨汤拿铁,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-drink-coconut-water 椰皇水,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+subway-cn-drink-soy-milk 豆浆,Subway 赛百味中国,description,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-teng-jiao-ji-tui 藤椒鸡腿中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-bei-jing-kao-ya 北京烤鸭中国汉堡,塔斯汀中国汉堡,description; merchant_claim:官方卖点『招牌国味内馅/传统中国风味』（营销表述，非营养事实）; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ban-shao-feng-li 板烧凤梨中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-pei-gen-jian-dan 培根煎蛋中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-zi-ran-jun-gu-niu-rou 孜然菌菇牛肉中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-you-zi-you-wei-ya 有孜有味鸭中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-bi-feng-tang-xie-liu 避风塘蟹味柳中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-duo-zhi-niu-rou 多汁牛肉中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-tao-tao-ang-si-niu 桃桃安格斯牛中国汉堡,塔斯汀中国汉堡,description; merchant_claim:媒体/宣发语境称『减脂党体重控制期专属餐』『备注多菜少酱更无负担』（营销话术，非营养事实，无任何数据支撑）; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-xin-jiang-la-pi-zi-ji-pai 新疆辣皮子鸡排中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-huo-bao-you-yu 火爆鱿鱼中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-huo-bao-la-zi-ji 火爆辣子鸡中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-tian-yuan-cui-ji 田园脆鸡中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ta-ta-ji-tui-xiao-bao 塔塔鸡腿中国小堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-xiang-la-nen-ji-rou 湘辣嫩鸡肉中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ga-ga-shuang-liao-ya 嘎嘎双料鸭中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-xu-fu-niu-bao 徐福牛堡,塔斯汀中国汉堡,description; merchant_claim:联名限定宣传语『扎实可口的徐福牛堡』（营销表述）; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-xiao-long-xia-bao 小龙虾中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ma-po-dou-fu 麻婆豆腐中国汉堡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-cu-shu 粗薯,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-gan-mei-hong-xin-shu-tiao 甘梅红心薯条,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-yan-su-ji-mi-hua 盐酥鸡米花,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-cui-mi-ji-mi-hua 脆米鸡米花,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ta-ta-ji-kuai 塔塔鸡块,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-xiang-la-ji-chi 香辣鸡翅,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-shuang-xiang-chi-gen 双享翅根,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ao-er-liang-kao-chi 奥尔良烤翅,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-huan-xi-quan-chi 欢喜全翅,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-jing-chu-jian-jiao-chi-jian 荆楚尖叫翅尖,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ken-ding-hao-ji-bo 啃定好鸡脖,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ta-ta-xiang-ji-tui 塔塔香鸡腿,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-huang-jin-ma-ti-xia-qiu 黄金马蹄虾球,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-chuan-xiang-xiang-gu-ji 川香香骨鸡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-chuan-shi-xiang-cai-rou-rou-chang 川式香菜肉肉肠,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-tiao-tiao-tang-tu-dou-ni 跳跳糖土豆泥,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-hu-la-tang-tu-dou-ni 胡辣汤土豆泥,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-gui-hua-jiu-niang-ci-ba 桂花酒酿糍粑,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-qiao-ke-li-hong-dou-nai-xiang-juan 巧克力红豆奶香卷,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-mi-zhi-shou-ba-ji 秘汁手扒鸡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-teng-jiao-ban-bian-ji 藤椒半边鸡,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-kai-xun-huo-yan-ji-tui 开熏火焰鸡腿,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-wu-tang-bing-ning-ke-le 无糖冰柠可乐,塔斯汀中国汉堡,description; xhs_keywords,protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ning-meng-hong-cha 柠檬红茶,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-wang-chun-shan-zha-wu-mei-zhi 望春山楂乌梅汁,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-zi-yu-hong-zao-hei-mi-jiang 紫玉红枣黑米浆（热）,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-ta-ta-feng-wei-nai 塔塔风味奶（热）,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-hua-sheng-jiang 花生浆,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-hai-yan-feng-li-feng-wei-yin 海盐凤梨风味饮,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-qing-mei-jian-xi-qi-pao-yin 青梅见喜气泡饮,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-wu-tang-bing-ning-ka 无糖冰柠咖,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-taocan-tg1096-3pc 单人3件套 TG1096（买一送二）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-tg1915-4pc 单人四件套 TG1915,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-taocan-tg005-double-burger 百万爆款双堡 TG005,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-tg2215-3plus2 3+2 随心配 TG2215,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-3-3-3 中国汉堡自选套餐（3汉堡+3小食+3饮品）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-4pc-snack 中国汉堡小食4件套（汉堡+粗薯+鸡米花+可乐）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-xiang-la-ji-tui-danren 香辣鸡腿中国汉堡套餐,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-tg022-wing-trio 超值翅根三重奏 TG022 / 塔塔翅根桶,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-tg1769-fries-trio 薯薯三重奏 TG1769,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-tg1545-snack-n1 塔粉专享热销小吃 N选1 TG1545,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-tg1542-snack-n2 热销小吃 N选2 TG1542,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-tg2082-5items 塔粉专享 5 样美食 TG2082,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-taocan-double-8pc 精选双人8件套,塔斯汀中国汉堡,description; xhs_keywords,energy; protein; carbs; fat; sodium,xiaohongshu_weighed_search,yes
+tastien-cn-taocan-guo-wei-kao-ya-pin-pan 国味烤鸭堡拼盘餐,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-xufu-3pc 徐福美味精选三件套（龙餐馆联名）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-xufu-6pc 薯牛欢享双人六件套（龙餐馆联名）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-taotao-ciba-kele 桃桃安格斯牛堡+桂花酒酿糍粑+冰柠可乐（兑换券）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-burger3-cuimi-ciba 汉堡3选1+脆米鸡米花+桂花酒酿糍粑（兑换券）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes
+tastien-cn-taocan-mb42-duo-ren 汉堡多人套餐系列 MB42（香辣/藤椒鸡腿堡2选1 + 七喜/冰柠可乐2选1）,塔斯汀中国汉堡,description; combo_components; xhs_keywords,energy; protein; carbs; fat; sodium,component_estimate,yes

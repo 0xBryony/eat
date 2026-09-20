@@ -1,0 +1,389 @@
+{
+ "profile": "female 28 165cm 60kg gentle_fat_loss 2 sessions/week, mealsPerDay 3",
+ "plan": {
+  "target": 1676,
+  "range": [
+   1592,
+   1760
+  ],
+  "protein": 90,
+  "fat": [
+   37,
+   56
+  ],
+  "carbs": 228
+ },
+ "poolSize": 20,
+ "cards": [
+  {
+   "id": "card-01",
+   "mode": "2-meal+addon",
+   "breakfast": [
+    "茶叶蛋×2 或 鸡胸加料"
+   ],
+   "lunch": [
+    "蛋白多多鸡胸热能碗"
+   ],
+   "dinner": [
+    "照烧鸡腿肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": "茶叶蛋×2 或 鸡胸加料",
+   "energy": 1703,
+   "protein": 90,
+   "fat": 53,
+   "carbs": 229,
+   "brands": [
+    "沙野轻食",
+    "米村拌饭"
+   ],
+   "confidence": [
+    "B",
+    "C"
+   ],
+   "guidance": "碳水 229 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-02",
+   "mode": "2-meal+addon",
+   "breakfast": [
+    "茶叶蛋×2 或 鸡胸加料"
+   ],
+   "lunch": [
+    "卤鸡腿",
+    "红米糙米红薯饭",
+    "米饭"
+   ],
+   "dinner": [
+    "蛋白多多鸡胸热能碗"
+   ],
+   "plannedAddon": "茶叶蛋×2 或 鸡胸加料",
+   "energy": 1607,
+   "protein": 88,
+   "fat": 41,
+   "carbs": 219,
+   "brands": [
+    "老乡鸡",
+    "沙野轻食"
+   ],
+   "confidence": [
+    "A",
+    "B"
+   ],
+   "guidance": "碳水 219 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-03",
+   "mode": "2-meal+addon",
+   "breakfast": [
+    "茶叶蛋×2 或 鸡胸加料"
+   ],
+   "lunch": [
+    "三杯鸡",
+    "红米糙米红薯饭",
+    "米饭"
+   ],
+   "dinner": [
+    "香煎鸡胸藜麦杂粮碗（外卖亦作『烤鸡胸藜麦杂粮碗/鸡胸肉杂粮碗』）"
+   ],
+   "plannedAddon": "茶叶蛋×2 或 鸡胸加料",
+   "energy": 1616,
+   "protein": 81,
+   "fat": 54,
+   "carbs": 195,
+   "brands": [
+    "老乡鸡",
+    "沙野轻食"
+   ],
+   "confidence": [
+    "A",
+    "C"
+   ],
+   "guidance": "碳水 195 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-04",
+   "mode": "2-meal+addon",
+   "breakfast": [
+    "茶叶蛋×2 或 鸡胸加料"
+   ],
+   "lunch": [
+    "烤牛肉拌饭"
+   ],
+   "dinner": [
+    "照烧鸡腿肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": "茶叶蛋×2 或 鸡胸加料",
+   "energy": 1657,
+   "protein": 82,
+   "fat": 54,
+   "carbs": 223,
+   "brands": [
+    "米村拌饭"
+   ],
+   "confidence": [
+    "C"
+   ],
+   "guidance": "碳水 223 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-05",
+   "mode": "3-meal",
+   "breakfast": [
+    "即食卤蛋/水煮蛋（1个约50g）"
+   ],
+   "lunch": [
+    "卤鸡腿",
+    "红米糙米红薯饭",
+    "米饭"
+   ],
+   "dinner": [
+    "烤牛肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": null,
+   "energy": 1754,
+   "protein": 81,
+   "fat": 39,
+   "carbs": 266,
+   "brands": [
+    "老乡鸡",
+    "米村拌饭"
+   ],
+   "confidence": [
+    "A",
+    "C"
+   ],
+   "guidance": "碳水 266 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-06",
+   "mode": "3-meal",
+   "breakfast": [
+    "无糖希腊酸奶（100g）"
+   ],
+   "lunch": [
+    "三杯鸡",
+    "红米糙米红薯饭",
+    "米饭"
+   ],
+   "dinner": [
+    "蛋白多多鸡胸热能碗"
+   ],
+   "plannedAddon": null,
+   "energy": 1757,
+   "protein": 83,
+   "fat": 51,
+   "carbs": 239,
+   "brands": [
+    "老乡鸡",
+    "沙野轻食"
+   ],
+   "confidence": [
+    "A",
+    "B"
+   ],
+   "guidance": "碳水 239 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-07",
+   "mode": "2-meal+addon",
+   "breakfast": [
+    "茶叶蛋×2 或 鸡胸加料"
+   ],
+   "lunch": [
+    "蛋白多多鸡胸热能碗"
+   ],
+   "dinner": [
+    "烤牛肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": "茶叶蛋×2 或 鸡胸加料",
+   "energy": 1697,
+   "protein": 83,
+   "fat": 50,
+   "carbs": 227,
+   "brands": [
+    "沙野轻食",
+    "米村拌饭"
+   ],
+   "confidence": [
+    "B",
+    "C"
+   ],
+   "guidance": "碳水 227 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-08",
+   "mode": "2-meal+addon",
+   "breakfast": [
+    "茶叶蛋×2 或 鸡胸加料"
+   ],
+   "lunch": [
+    "烤牛肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "dinner": [
+    "照烧鸡腿肉拌饭"
+   ],
+   "plannedAddon": "茶叶蛋×2 或 鸡胸加料",
+   "energy": 1657,
+   "protein": 82,
+   "fat": 54,
+   "carbs": 223,
+   "brands": [
+    "米村拌饭"
+   ],
+   "confidence": [
+    "C"
+   ],
+   "guidance": "碳水 223 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-09",
+   "mode": "3-meal",
+   "breakfast": [
+    "纯牛奶（250ml）"
+   ],
+   "lunch": [
+    "卤鸡腿",
+    "红米糙米红薯饭",
+    "米饭"
+   ],
+   "dinner": [
+    "蛋白多多鸡胸热能碗"
+   ],
+   "plannedAddon": null,
+   "energy": 1628,
+   "protein": 84,
+   "fat": 40,
+   "carbs": 231,
+   "brands": [
+    "老乡鸡",
+    "沙野轻食"
+   ],
+   "confidence": [
+    "A",
+    "B"
+   ],
+   "guidance": "碳水 231 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-10",
+   "mode": "3-meal",
+   "breakfast": [
+    "无糖希腊酸奶（100g）"
+   ],
+   "lunch": [
+    "蛋白多多鸡胸热能碗"
+   ],
+   "dinner": [
+    "烤牛肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": null,
+   "energy": 1612,
+   "protein": 81,
+   "fat": 39,
+   "carbs": 231,
+   "brands": [
+    "沙野轻食",
+    "米村拌饭"
+   ],
+   "confidence": [
+    "B",
+    "C"
+   ],
+   "guidance": "碳水 231 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-11",
+   "mode": "3-meal",
+   "breakfast": [
+    "无糖希腊酸奶（100g）"
+   ],
+   "lunch": [
+    "三杯鸡",
+    "米饭"
+   ],
+   "dinner": [
+    "照烧鸡腿肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": null,
+   "energy": 1700,
+   "protein": 83,
+   "fat": 56,
+   "carbs": 228,
+   "brands": [
+    "老乡鸡",
+    "米村拌饭"
+   ],
+   "confidence": [
+    "A",
+    "C"
+   ],
+   "guidance": "碳水 228 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "card-12",
+   "mode": "3-meal",
+   "breakfast": [
+    "全麦面包（2片约80g）"
+   ],
+   "lunch": [
+    "卤鸡腿",
+    "米饭"
+   ],
+   "dinner": [
+    "照烧鸡腿肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": null,
+   "energy": 1603,
+   "protein": 83,
+   "fat": 38,
+   "carbs": 241,
+   "brands": [
+    "老乡鸡",
+    "米村拌饭"
+   ],
+   "confidence": [
+    "A",
+    "C"
+   ],
+   "guidance": "碳水 241 vs 参考 228——主食正常吃即可，不追加不削减。"
+  },
+  {
+   "id": "cardF-01",
+   "mode": "3-meal fat-flex",
+   "breakfast": [
+    "纯牛奶（250ml）"
+   ],
+   "lunch": [
+    "麦辣鸡腿汉堡",
+    "玉米杯"
+   ],
+   "dinner": [
+    "照烧鸡腿肉拌饭",
+    "五谷杂粮饭（轻食系列主食）"
+   ],
+   "plannedAddon": "茶叶蛋×2 或 鸡胸加料",
+   "energy": 1740,
+   "protein": 88,
+   "fat": 69,
+   "carbs": 200,
+   "brands": [
+    "麦当劳",
+    "米村拌饭"
+   ],
+   "confidence": [
+    "A",
+    "C"
+   ],
+   "guidance": "油脂略高于今日参考上限——另一餐不用再额外加高脂配菜就好，不用改主食。"
+  }
+ ],
+ "notes": "cardF-* 为 fat-flex 族：脂肪略超 fHi(≤+12%)，按 spec §15 作柔和上限指导而非硬裁切；覆盖油炸主导品牌(麦当劳/KFC/Subway/塔斯汀/便利店)。"
+}

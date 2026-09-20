@@ -1,0 +1,615 @@
+[
+ {
+  "id": "tpl-malatang",
+  "name": "麻辣烫",
+  "category": "hotpot",
+  "components": [
+   "蔬菜/菌菇",
+   "豆制品",
+   "丸滑",
+   "肉片",
+   "宽粉/面"
+  ],
+  "variableParameters": [
+   "汤底类型(菌菇番茄vs麻辣浓骨)",
+   "是否喝汤",
+   "蘸料(稀麻酱vs胡辣椒面)",
+   "主食有无与份量",
+   "称重克数"
+  ],
+  "typicalPortion": "按称重600-1000g",
+  "energyRangeKcal": [
+   450,
+   1500
+  ],
+  "proteinRangeG": [
+   20,
+   45
+  ],
+  "uncertaintyDrivers": [
+   "称重不透明",
+   "汤油吸附",
+   "麻酱倍量",
+   "是否喝汤"
+  ],
+  "confidence": "C",
+  "sources": "https://www.sohu.com/a/712891503_121435083; https://post.smzdm.com/p/az84376n/; https://www.sina.cn/news/detail/5287301665784148.html"
+ },
+ {
+  "id": "tpl-shaxian",
+  "name": "沙县类快餐",
+  "category": "chinese_fastfood",
+  "components": [
+   "蒸饺",
+   "馄饨",
+   "拌面",
+   "炖罐",
+   "鸡腿饭"
+  ],
+  "variableParameters": [
+   "米饭是否减半",
+   "去皮否",
+   "是否炒粉炒面",
+   "油豆腐"
+  ],
+  "typicalPortion": "单点/套餐",
+  "energyRangeKcal": [
+   326,
+   1133
+  ],
+  "proteinRangeG": [
+   15,
+   40
+  ],
+  "uncertaintyDrivers": [
+   "门店非标准化",
+   "酱料油量"
+  ],
+  "confidence": "C",
+  "sources": "https://post.smzdm.com/p/a95o2rr5/; https://www.zhihu.com/question/1963283307123967345"
+ },
+ {
+  "id": "tpl-huangmenji",
+  "name": "黄焖鸡米饭",
+  "category": "rice_bowl",
+  "components": [
+   "带皮鸡腿肉",
+   "土豆青椒",
+   "米饭",
+   "浓酱汁"
+  ],
+  "variableParameters": [
+   "皮去否",
+   "酱汁浇饭量",
+   "米饭克数(150g约195kcal)",
+   "加菜"
+  ],
+  "typicalPortion": "整份约450g",
+  "energyRangeKcal": [
+   580,
+   650
+  ],
+  "proteinRangeG": [
+   30,
+   40
+  ],
+  "uncertaintyDrivers": [
+   "酱汁糖油额外80-120kcal",
+   "连锁与小店配方差异"
+  ],
+  "confidence": "C",
+  "sources": "https://jianghu.taobao.com/detail/47730_82704246"
+ },
+ {
+  "id": "tpl-lanzhou",
+  "name": "兰州牛肉面",
+  "category": "noodles",
+  "components": [
+   "拉面200g",
+   "牛腩120g",
+   "清汤",
+   "辣油"
+  ],
+  "variableParameters": [
+   "面量(几两)",
+   "辣油",
+   "加肉/加蛋",
+   "是否喝汤"
+  ],
+  "typicalPortion": "1碗约380g",
+  "energyRangeKcal": [
+   400,
+   520
+  ],
+  "proteinRangeG": [
+   20,
+   30
+  ],
+  "uncertaintyDrivers": [
+   "店型差异大(街边vs陈香贵类)"
+  ],
+  "confidence": "C",
+  "sources": "https://chinesecalorie.com/china/foods/noodles/lanzhou-beef-noodles-cn"
+ },
+ {
+  "id": "tpl-cq-xiaomian",
+  "name": "重庆小面",
+  "category": "noodles",
+  "components": [
+   "碱水面",
+   "红油辣椒",
+   "芽菜花生碎",
+   "青菜"
+  ],
+  "variableParameters": [
+   "红油/猪油量",
+   "豌杂加料",
+   "面量",
+   "是否清汤"
+  ],
+  "typicalPortion": "1份",
+  "energyRangeKcal": [
+   380,
+   520
+  ],
+  "proteinRangeG": [
+   10,
+   18
+  ],
+  "uncertaintyDrivers": [
+   "红油量不可见"
+  ],
+  "confidence": "C",
+  "sources": "https://jianghu.taobao.com/detail/47730_82676362"
+ },
+ {
+  "id": "tpl-shiguo-bibimbap",
+  "name": "石锅拌饭(米村类)",
+  "category": "rice_bowl",
+  "components": [
+   "米饭",
+   "蔬菜",
+   "肉",
+   "拌饭酱",
+   "海苔碎",
+   "蛋"
+  ],
+  "variableParameters": [
+   "去酱(709→635)",
+   "去海苔碎(→650)",
+   "两者都去→576",
+   "米饭半份180/三分之一120"
+  ],
+  "typicalPortion": "1石锅",
+  "energyRangeKcal": [
+   500,
+   950
+  ],
+  "proteinRangeG": [
+   20,
+   35
+  ],
+  "uncertaintyDrivers": [
+   "拌饭酱与海苔碎为最大变量",
+   "品牌有明示小店无"
+  ],
+  "confidence": "B",
+  "sources": "https://post.smzdm.com/zz/p/akoekgv9/"
+ },
+ {
+  "id": "tpl-shaolao",
+  "name": "烧腊饭",
+  "category": "rice_bowl",
+  "components": [
+   "叉烧/烧鸭/白切鸡",
+   "米饭",
+   "青菜"
+  ],
+  "variableParameters": [
+   "肉种与肥瘦",
+   "去皮",
+   "双拼",
+   "汁淋饭"
+  ],
+  "typicalPortion": "1碟",
+  "energyRangeKcal": null,
+  "proteinRangeG": null,
+  "uncertaintyDrivers": [
+   "档口切配份量随机",
+   "华南讨论集中"
+  ],
+  "confidence": "D",
+  "sources": ""
+ },
+ {
+  "id": "tpl-luosifen",
+  "name": "螺蛳粉",
+  "category": "noodles",
+  "components": [
+   "米粉",
+   "酸笋",
+   "腐竹",
+   "花生",
+   "红油汤"
+  ],
+  "variableParameters": [
+   "油包全放/半放",
+   "腐竹花生取舍",
+   "加卤味"
+  ],
+  "typicalPortion": "成品约220g干料",
+  "energyRangeKcal": [
+   420,
+   480
+  ],
+  "proteinRangeG": [
+   15,
+   25
+  ],
+  "uncertaintyDrivers": [
+   "料包使用率"
+  ],
+  "confidence": "C",
+  "sources": "https://jianghu.taobao.com/guanglocal/47730_6df3897f237cb6805024b1eee799d0ca"
+ },
+ {
+  "id": "tpl-huntun-jiaozi",
+  "name": "馄饨/饺子",
+  "category": "dumpling",
+  "components": [
+   "皮+肉/菜馅",
+   "汤"
+  ],
+  "variableParameters": [
+   "个数",
+   "馅肥瘦",
+   "蘸醋vs辣油",
+   "配主食"
+  ],
+  "typicalPortion": "10-15个",
+  "energyRangeKcal": [
+   300,
+   450
+  ],
+  "proteinRangeG": [
+   15,
+   30
+  ],
+  "uncertaintyDrivers": [
+   "个数与皮厚"
+  ],
+  "confidence": "C",
+  "sources": "https://post.smzdm.com/p/a95o2rr5/"
+ },
+ {
+  "id": "tpl-mixian",
+  "name": "米线/过桥米线",
+  "category": "noodles",
+  "components": [
+   "米线",
+   "汤底",
+   "配菜",
+   "辣椒油花生酱"
+  ],
+  "variableParameters": [
+   "清汤vs浓汤",
+   "油炸配料",
+   "油酱克数(10g油约+90kcal)"
+  ],
+  "typicalPortion": "1大碗",
+  "energyRangeKcal": [
+   400,
+   900
+  ],
+  "proteinRangeG": [
+   15,
+   30
+  ],
+  "uncertaintyDrivers": [
+   "碗体量大",
+   "汤油分层",
+   "整碗密度90-300kcal/100g"
+  ],
+  "confidence": "C",
+  "sources": "https://www.familydoctor.cn/hlthsci/guoqiao-mixian-re-liangcha-3bei-xuandui-3dian-chizhe-anxin-675389.html"
+ },
+ {
+  "id": "tpl-weighed-dish",
+  "name": "自选称重菜",
+  "category": "weighed",
+  "components": [
+   "食堂/小碗菜多品类"
+  ],
+  "variableParameters": [
+   "克数",
+   "菜式油糖",
+   "米饭量"
+  ],
+  "typicalPortion": "1盘",
+  "energyRangeKcal": [
+   400,
+   700
+  ],
+  "proteinRangeG": [
+   15,
+   35
+  ],
+  "uncertaintyDrivers": [
+   "外卖端渗透低·线上化难"
+  ],
+  "confidence": "C",
+  "sources": "https://m.baidu.com/bh/m/detail/ar_3357481785483898328"
+ },
+ {
+  "id": "tpl-maocai",
+  "name": "冒菜",
+  "category": "hotpot",
+  "components": [
+   "同麻辣烫但底料更重"
+  ],
+  "variableParameters": [
+   "底料",
+   "油碟",
+   "主食"
+  ],
+  "typicalPortion": "1份",
+  "energyRangeKcal": [
+   500,
+   900
+  ],
+  "proteinRangeG": [
+   20,
+   40
+  ],
+  "uncertaintyDrivers": [
+   "与麻辣烫边界模糊"
+  ],
+  "confidence": "D",
+  "sources": ""
+ },
+ {
+  "id": "tpl-gaifan",
+  "name": "中式盒饭/盖浇饭",
+  "category": "rice_bowl",
+  "components": [
+   "米饭+料理包浇头"
+  ],
+  "variableParameters": [
+   "浇头种类",
+   "汁拌饭",
+   "料理包"
+  ],
+  "typicalPortion": "1盒",
+  "energyRangeKcal": [
+   500,
+   900
+  ],
+  "proteinRangeG": [
+   15,
+   35
+  ],
+  "uncertaintyDrivers": [
+   "料理包钠油不透明"
+  ],
+  "confidence": "D",
+  "sources": "https://news.qq.com/rain/a/20240802A08XNK00; https://foodaily.com/articles/36405"
+ },
+ {
+  "id": "tpl-congee",
+  "name": "粥",
+  "category": "congee",
+  "components": [
+   "白粥/皮蛋瘦肉粥+配碟"
+  ],
+  "variableParameters": [
+   "粥种",
+   "配油条/咸菜"
+  ],
+  "typicalPortion": "1碗",
+  "energyRangeKcal": [
+   150,
+   300
+  ],
+  "proteinRangeG": [
+   5,
+   15
+  ],
+  "uncertaintyDrivers": [
+   "升糖快饱腹差·减脂讨论偏负面"
+  ],
+  "confidence": "C",
+  "sources": "https://jianghu.taobao.com/detail/47729_70869114"
+ },
+ {
+  "id": "tpl-sushi-don",
+  "name": "日式盖饭/寿司",
+  "category": "japanese",
+  "components": [
+   "醋饭",
+   "刺身/炸物",
+   "酱"
+  ],
+  "variableParameters": [
+   "炸vs生",
+   "酱料",
+   "卷数"
+  ],
+  "typicalPortion": "1份",
+  "energyRangeKcal": [
+   400,
+   800
+  ],
+  "proteinRangeG": [
+   15,
+   35
+  ],
+  "uncertaintyDrivers": [
+   "讨论量低"
+  ],
+  "confidence": "D",
+  "sources": ""
+ },
+ {
+  "id": "tpl-combo-breakfast",
+  "name": "黑咖啡+全麦面包+鸡蛋",
+  "category": "combo",
+  "components": [
+   "黑咖啡",
+   "全麦面包1-2片",
+   "水煮蛋1"
+  ],
+  "variableParameters": [
+   "面包片数",
+   "鸡蛋数"
+  ],
+  "typicalPortion": "1套",
+  "energyRangeKcal": [
+   250,
+   350
+  ],
+  "proteinRangeG": [
+   12,
+   18
+  ],
+  "uncertaintyDrivers": [
+   "面包尺寸"
+  ],
+  "confidence": "C",
+  "sources": "https://www.lezuocai.com/recipe/1251426/"
+ },
+ {
+  "id": "tpl-combo-onigiri",
+  "name": "便利店饭团+牛奶/乌龙茶",
+  "category": "combo",
+  "components": [
+   "三角饭团",
+   "牛奶或无糖乌龙茶"
+  ],
+  "variableParameters": [
+   "饭团馅种(255/380/513)"
+  ],
+  "typicalPortion": "1套",
+  "energyRangeKcal": [
+   250,
+   520
+  ],
+  "proteinRangeG": [
+   8,
+   20
+  ],
+  "uncertaintyDrivers": [
+   "馅种决定热量"
+  ],
+  "confidence": "B",
+  "sources": "https://post.smzdm.com/p/arln4k9z/; https://post.smzdm.com/zz/p/agok80q6/"
+ },
+ {
+  "id": "tpl-combo-sandwich",
+  "name": "三明治+咖啡",
+  "category": "combo",
+  "components": [
+   "三明治",
+   "黑咖啡/拿铁"
+  ],
+  "variableParameters": [
+   "三明治种类",
+   "是否加奶"
+  ],
+  "typicalPortion": "1套",
+  "energyRangeKcal": [
+   300,
+   500
+  ],
+  "proteinRangeG": [
+   15,
+   25
+  ],
+  "uncertaintyDrivers": [
+   "酱与芝士"
+  ],
+  "confidence": "C",
+  "sources": "https://post.smzdm.com/zz/p/agok80q6/"
+ },
+ {
+  "id": "tpl-combo-odenn",
+  "name": "关东煮四件套+香煎鸡排",
+  "category": "combo",
+  "components": [
+   "白萝卜/海带/豆腐/白菜",
+   "香煎鸡排"
+  ],
+  "variableParameters": [
+   "件数",
+   "是否加鸡排"
+  ],
+  "typicalPortion": "1套",
+  "energyRangeKcal": [
+   350,
+   450
+  ],
+  "proteinRangeG": [
+   25,
+   35
+  ],
+  "uncertaintyDrivers": [
+   "鸡排烹调油"
+  ],
+  "confidence": "B",
+  "sources": "https://post.smzdm.com/zz/p/agok80q6/"
+ },
+ {
+  "id": "tpl-combo-yogurt",
+  "name": "酸奶+水果",
+  "category": "combo",
+  "components": [
+   "无糖酸奶",
+   "苹果/莓果"
+  ],
+  "variableParameters": [
+   "酸奶含糖量",
+   "水果种类"
+  ],
+  "typicalPortion": "1套",
+  "energyRangeKcal": [
+   150,
+   300
+  ],
+  "proteinRangeG": [
+   8,
+   15
+  ],
+  "uncertaintyDrivers": [
+   "酸奶添加糖"
+  ],
+  "confidence": "C",
+  "sources": "https://www.163.com/dy/article/L5DTDBCO055643BW.html"
+ },
+ {
+  "id": "tpl-combo-chicken-breast",
+  "name": "即食鸡胸+魔芋面+蔬菜沙拉",
+  "category": "combo",
+  "components": [
+   "即食鸡胸",
+   "魔芋面",
+   "蔬菜",
+   "酱汁"
+  ],
+  "variableParameters": [
+   "酱汁种类"
+  ],
+  "typicalPortion": "1套",
+  "energyRangeKcal": [
+   250,
+   400
+  ],
+  "proteinRangeG": [
+   30,
+   40
+  ],
+  "uncertaintyDrivers": [
+   "酱汁为唯一大变量"
+  ],
+  "confidence": "C",
+  "sources": ""
+ }
+]

@@ -1,0 +1,4166 @@
+[
+ {
+  "id": "mcd-cn-grilled-chicken-sandwich",
+  "brand": "麦当劳",
+  "productName": "板烧鸡腿堡",
+  "menuCategory": "汉堡和卷",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 391.0,
+  "proteinG": 23.0,
+  "carbsG": 35.0,
+  "fatG": 17.0,
+  "fiberG": null,
+  "sodiumMg": 1041.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Grilled-Chicken-Sandwich",
+  "sourceTitle": "板烧鸡腿堡 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "burger",
+   "chicken",
+   "high_protein",
+   "grilled"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "烤味酱",
+   "0油煎但含酱"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "pick-mcd-02",
+  "brand": "麦当劳",
+  "productName": "原味板烧鸡腿堡+玉米杯+零度可乐",
+  "menuCategory": "减脂组合",
+  "emoji": "🍔",
+  "itemType": "custom_combo",
+  "comboComponents": "burger=原味板烧鸡腿堡; side=玉米杯; drink=零度可乐",
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "套",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   420.0,
+   510.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/zz/p/ako777nr/",
+  "sourceTitle": "麦当劳减脂终极攻略400/500/600大卡套餐",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "combo"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱",
+   "薯条是否替换"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-spicy-chicken-filet",
+  "brand": "麦当劳",
+  "productName": "麦辣鸡腿汉堡",
+  "menuCategory": "汉堡和卷",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 485.0,
+  "proteinG": 24.0,
+  "carbsG": 42.0,
+  "fatG": 24.0,
+  "fiberG": null,
+  "sodiumMg": 1208.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Spicy-Chicken-Filet",
+  "sourceTitle": "麦辣鸡腿汉堡 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "burger",
+   "chicken",
+   "fried"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "沙拉酱",
+   "油炸鸡排"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-french-fries",
+  "brand": "麦当劳",
+  "productName": "薯条",
+  "menuCategory": "小食",
+  "emoji": "🌽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "份(中)",
+  "energyKcal": 289.0,
+  "proteinG": 4.0,
+  "carbsG": 38.0,
+  "fatG": 12.0,
+  "fiberG": null,
+  "sodiumMg": 165.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/French-Fries",
+  "sourceTitle": "薯条 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "side",
+   "fried",
+   "high_calorie"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "份量规格(迷你/小/中/大)",
+   "用油"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-big-mac",
+  "brand": "麦当劳",
+  "productName": "巨无霸",
+  "menuCategory": "汉堡和卷",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 513.0,
+  "proteinG": 27.0,
+  "carbsG": 42.0,
+  "fatG": 26.0,
+  "fiberG": null,
+  "sodiumMg": 961.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Big-Mac",
+  "sourceTitle": "巨无霸 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "burger",
+   "beef"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料",
+   "面包芝麻"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-double-cheeseburger",
+  "brand": "麦当劳",
+  "productName": "双层吉士汉堡",
+  "menuCategory": "汉堡和卷",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 429.0,
+  "proteinG": 27.0,
+  "carbsG": 31.0,
+  "fatG": 22.0,
+  "fiberG": null,
+  "sodiumMg": 1017.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Double-Cheeseburger",
+  "sourceTitle": "双层吉士汉堡 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "burger",
+   "beef",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料",
+   "芝士片数"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-angus-bacon",
+  "brand": "麦当劳",
+  "productName": "培根安格斯厚牛堡",
+  "menuCategory": "汉堡和卷",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 707.0,
+  "proteinG": 34.0,
+  "carbsG": 43.0,
+  "fatG": 44.0,
+  "fiberG": null,
+  "sodiumMg": 1037.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Thick-Angus-Beef-Burger-with-Bacon",
+  "sourceTitle": "培根安格斯厚牛堡 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "burger",
+   "beef",
+   "high_calorie",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "厚牛肉饼",
+   "培根",
+   "芝士",
+   "酱料"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-double-sausage-egg-mcmuffin",
+  "brand": "麦当劳",
+  "productName": "双层猪柳蛋麦满分",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 513.0,
+  "proteinG": 29.0,
+  "carbsG": 26.0,
+  "fatG": 32.0,
+  "fiberG": null,
+  "sodiumMg": 1210.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/%E5%8F%8C%E5%B1%82%E7%8C%AA%E6%9F%B3%E8%9B%8B%E9%BA%A6%E6%BB%A1%E5%88%86",
+  "sourceTitle": "双层猪柳蛋麦满分 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "breakfast",
+   "pork",
+   "egg",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "双层猪柳/蒸蛋"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "mcd-cn-double-grilled-chicken-muffin",
+  "brand": "麦当劳",
+  "productName": "双层原味板烧鸡腿麦满分",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 355.0,
+  "proteinG": 23.0,
+  "carbsG": 27.0,
+  "fatG": 17.0,
+  "fiberG": null,
+  "sodiumMg": 984.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Double-Grilled-Chicken-Muffin",
+  "sourceTitle": "双层原味板烧鸡腿麦满分 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "breakfast",
+   "chicken",
+   "grilled",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "双层鸡腿肉/烤味酱"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-sausage-mcmuffin-egg",
+  "brand": "麦当劳",
+  "productName": "猪柳蛋麦满分",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 387.0,
+  "proteinG": 23.0,
+  "carbsG": 25.0,
+  "fatG": 21.0,
+  "fiberG": null,
+  "sodiumMg": 846.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Sausage-McMuffin-With-Egg",
+  "sourceTitle": "猪柳蛋麦满分 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "breakfast",
+   "pork",
+   "egg",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "猪柳/蒸蛋/松饼"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "mcd-cn-grilled-chicken-double-egg",
+  "brand": "麦当劳",
+  "productName": "原味板烧鸡腿炒双蛋堡",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 419.0,
+  "proteinG": 27.0,
+  "carbsG": 30.0,
+  "fatG": 21.0,
+  "fiberG": null,
+  "sodiumMg": 715.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/%E5%8E%9F%E5%91%B3%E6%9D%BF%E7%83%A7%E9%B8%A1%E8%85%BF%E7%82%92%E5%8F%8C%E8%9B%8B%E5%A0%A1",
+  "sourceTitle": "原味板烧鸡腿炒双蛋堡 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "breakfast",
+   "chicken",
+   "egg",
+   "high_protein",
+   "grilled"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "双蛋/鸡腿肉/烤味酱"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-xin-orlean-kao-ji-tui-bao",
+  "brand": "肯德基",
+  "productName": "新奥尔良烤鸡腿堡",
+  "menuCategory": "汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 405.0,
+  "proteinG": 25.6,
+  "carbsG": 37.8,
+  "fatG": 16.3,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   356.4,
+   453.6
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/热量营养/肯德基/新奥尔良烤鸡腿堡/1个",
+  "sourceTitle": "新奥尔良烤鸡腿堡 - 肯德基 热量与营养 | fatsecret.cn",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "grilled_chicken",
+   "high_protein",
+   "diet_friendly_candidate"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料是否添加（第三方称去酱约省 40kcal / 3g 脂肪）"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-zizi-yes-kao-ji-tui-bao",
+  "brand": "肯德基",
+  "productName": "滋滋YES烤鸡腿堡",
+  "menuCategory": "汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份(162克)",
+  "energyKcal": 377.0,
+  "proteinG": 21.0,
+  "carbsG": 29.0,
+  "fatG": 20.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   331.8,
+   422.2
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/热量营养/肯德基/滋滋YES烤鸡腿堡/1份",
+  "sourceTitle": "滋滋YES烤鸡腿堡 - 肯德基 热量与营养 | fatsecret.cn",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "grilled_chicken",
+   "high_protein",
+   "diet_friendly_candidate"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料份量；『低30%脂肪』为营销口径未经官方营养表证实"
+  ],
+  "merchantClaims": [
+   "脂肪低30%（vs 油炸，第三方/营销口径）"
+  ],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-zhi-zhi-shuang-ceng-nen-niu-bao",
+  "brand": "肯德基",
+  "productName": "汁汁双层嫩牛堡",
+  "menuCategory": "汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份(176.8克)",
+  "energyKcal": 476.0,
+  "proteinG": 19.8,
+  "carbsG": 39.1,
+  "fatG": 26.8,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   418.9,
+   533.1
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/热量营养/肯德基/汁汁双层嫩牛堡/1份",
+  "sourceTitle": "汁汁双层嫩牛堡 - 肯德基 热量与营养 | fatsecret.cn",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "beef"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料份量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-zhi-zhen-qi-xia-bao",
+  "brand": "肯德基",
+  "productName": "至珍七虾堡",
+  "menuCategory": "汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份(194克)",
+  "energyKcal": 494.0,
+  "proteinG": 21.6,
+  "carbsG": 48.5,
+  "fatG": 24.1,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   434.7,
+   553.3
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/热量营养/肯德基/至珍七虾堡/1份",
+  "sourceTitle": "至珍七虾堡 - 肯德基 热量与营养 | fatsecret.cn",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "seafood"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "虾只数固定但酱料可变"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-054-luchigen",
+  "brand": "老乡鸡",
+  "productName": "卤翅根",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 187.0,
+  "proteinG": 23.0,
+  "carbsG": 3.1,
+  "fatG": 9.1,
+  "fiberG": null,
+  "sodiumMg": 409.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 150,
+   "basis": "estimate",
+   "note": "1-2只估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "酱汁/糖油量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-055-ludapai",
+  "brand": "老乡鸡",
+  "productName": "卤大排",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 190.0,
+  "proteinG": 21.6,
+  "carbsG": 4.4,
+  "fatG": 9.5,
+  "fiberG": null,
+  "sodiumMg": 522.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 150,
+   "basis": "estimate",
+   "note": "1块估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "酱汁/糖油量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-078-baizhuoxia-8zhi",
+  "brand": "老乡鸡",
+  "productName": "白灼虾（8只）",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 107.0,
+  "proteinG": 23.4,
+  "carbsG": 0.7,
+  "fatG": 1.0,
+  "fiberG": null,
+  "sodiumMg": 444.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 120,
+   "basis": "estimate",
+   "note": "8只估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "high_protein",
+   "steamed_or_stewed"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-181-shengzhadajitui",
+  "brand": "老乡鸡",
+  "productName": "生炸大鸡腿",
+  "menuCategory": "炸品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 241.0,
+  "proteinG": 22.1,
+  "carbsG": 12.4,
+  "fatG": 11.3,
+  "fiberG": null,
+  "sodiumMg": 1080.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 150,
+   "max": 200,
+   "basis": "estimate",
+   "note": "1只估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "fried",
+   "high_calorie",
+   "high_protein",
+   "high_sodium"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "裹粉吸油量",
+   "油炸时间"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-090-congyouji-xiaomuji",
+  "brand": "老乡鸡",
+  "productName": "葱油鸡（小母鸡版）",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 180.0,
+  "proteinG": 20.7,
+  "carbsG": 2.0,
+  "fatG": 9.9,
+  "fiberG": null,
+  "sodiumMg": 1080.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 120,
+   "max": 180,
+   "basis": "estimate",
+   "note": "1份估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "high_protein",
+   "high_sodium"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-059-lusuji",
+  "brand": "老乡鸡",
+  "productName": "卤素鸡",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 219.0,
+  "proteinG": 20.3,
+  "carbsG": 6.2,
+  "fatG": 12.6,
+  "fiberG": null,
+  "sodiumMg": 555.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 80,
+   "max": 120,
+   "basis": "estimate",
+   "note": "1份估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "酱汁/糖油量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "lawson-cn-salad-chicken-breast",
+  "brand": "罗森",
+  "productName": "沙拉鸡胸肉",
+  "menuCategory": "沙拉",
+  "emoji": "🥗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_estimated_point",
+  "servingSize": "100",
+  "servingUnit": "克",
+  "energyKcal": 97.0,
+  "proteinG": 18.3,
+  "carbsG": 2.3,
+  "fatG": 1.5,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   85.0,
+   109.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/%E7%83%AD%E9%87%8F%E8%90%A5%E5%85%BB/%E7%BD%97%E6%A3%AE/%E6%B2%99%E6%8B%89%E9%B8%A1%E8%83%B8%E8%82%89/100%E5%85%8B",
+  "sourceTitle": "fatsecret 罗森 沙拉鸡胸肉（每100g）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "salad",
+   "chicken_breast",
+   "high_protein",
+   "low_fat",
+   "diet_staple",
+   "ready_to_eat"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "袋装净含量未公开标注",
+   "调味汁残留"
+  ],
+  "merchantClaims": [
+   "低卡",
+   "高蛋白（UGC口径）"
+  ]
+ },
+ {
+  "id": "kfc-cn-zhi-zhi-hou-zuo-shuang-ceng-he-niu-bao",
+  "brand": "肯德基",
+  "productName": "汁汁厚作双层和牛堡",
+  "menuCategory": "汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 884.0,
+  "proteinG": 43.2,
+  "carbsG": 51.2,
+  "fatG": 56.5,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   777.9,
+   990.1
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/热量营养/肯德基/汁汁厚作双层和牛堡/1份",
+  "sourceTitle": "汁汁厚作双层和牛堡 - 肯德基 热量与营养 | fatsecret.cn",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "beef",
+   "high_calorie",
+   "high_fat"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "肉饼克重与酱料；『和牛』为品名用语，非营养事实"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "micun-cn-add-jinqiangyu",
+  "brand": "米村拌饭",
+  "productName": "单加水浸金枪鱼",
+  "menuCategory": "小食/单加",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": 20.0,
+  "carbsG": 1.0,
+  "fatG": 1.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   83.0,
+   111.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "http://m.toutiao.com/group/7680169194310091283/?upstream_biz=VolcEngine",
+  "sourceTitle": "我拆了4份米村拌饭，发现减脂最大的坑根本不是米饭（营养师谷传玲）",
+  "sourceDate": "2026-08-31",
+  "confidence": "B",
+  "tags": [
+   "seafood",
+   "tuna",
+   "add_on",
+   "high_protein",
+   "low_calorie",
+   "weight_loss_favourite"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "单加份实际克重（门店手工盛装，波动大）",
+   "是否带油/带汁"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "micun-cn-add-jidan",
+  "brand": "米村拌饭",
+  "productName": "单加煎蛋（可生食鸡蛋）",
+  "menuCategory": "小食/单加",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 80.0,
+  "proteinG": 7.0,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   70.0,
+   90.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "http://m.toutiao.com/group/7680169194310091283/?upstream_biz=VolcEngine",
+  "sourceTitle": "我拆了4份米村拌饭，发现减脂最大的坑根本不是米饭（营养师谷传玲）",
+  "sourceDate": "2026-08-31",
+  "confidence": "B",
+  "tags": [
+   "egg",
+   "add_on",
+   "high_protein",
+   "low_calorie",
+   "weight_loss_favourite"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "煎制用油量（谷口径52g蛋=90 kcal 已含油）",
+   "生食级鸡蛋规格（≈50g）"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "shaye-cn-jixiongruo-jialiao",
+  "brand": "沙野轻食",
+  "productName": "鸡胸肉加料",
+  "menuCategory": "加料/小食",
+  "emoji": "🍗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份(约100g)",
+  "energyKcal": null,
+  "proteinG": 22.0,
+  "carbsG": 1.0,
+  "fatG": 2.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   120.0,
+   190.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "semantic_estimate",
+  "sourceUrl": "https://www.sina.cn/gc/article/nisefvr3852601.html",
+  "sourceTitle": "沙拉好吃的轻食餐厅怎么选？沙野轻食3大维度实测+FAQ（加一份鸡胸肉≈150大卡）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "add_on",
+   "chicken",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "嫩烤vs香煎",
+   "份量"
+  ],
+  "merchantClaims": [
+   "加一份鸡胸肉≈150大卡（AIGC转述）"
+  ],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "shaye-cn-xiaren-jialiao",
+  "brand": "沙野轻食",
+  "productName": "虾仁加料",
+  "menuCategory": "加料/小食",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": 13.0,
+  "carbsG": 3.0,
+  "fatG": 1.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   40.0,
+   100.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "semantic_estimate",
+  "sourceUrl": "https://www.sina.cn/news/article/comos_niqzxcn5105441.html",
+  "sourceTitle": "轻食沙拉外卖怎么选？沙野轻食鸡胸肉杂粮碗减脂餐深度测评+FAQ（虾仁约24大卡/份）",
+  "sourceDate": "2026-09",
+  "confidence": "C",
+  "tags": [
+   "add_on",
+   "shrimp",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "份量"
+  ],
+  "merchantClaims": [
+   "虾仁+24~80大卡/份（AIGC口径不一）"
+  ],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-corn-cup",
+  "brand": "麦当劳",
+  "productName": "玉米杯",
+  "menuCategory": "小食",
+  "emoji": "🌽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "份(小)",
+  "energyKcal": 53.0,
+  "proteinG": 2.0,
+  "carbsG": 7.0,
+  "fatG": 1.0,
+  "fiberG": null,
+  "sodiumMg": 1.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Corn-Cup",
+  "sourceTitle": "玉米杯 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "side",
+   "vegetable",
+   "low_calorie"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "份量规格(小/大)"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-grilled-chicken-muffin",
+  "brand": "麦当劳",
+  "productName": "原味板烧鸡腿麦满分",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 246.0,
+  "proteinG": 15.0,
+  "carbsG": 25.0,
+  "fatG": 9.0,
+  "fiberG": null,
+  "sodiumMg": 611.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Grilled-Chicken-Muffin",
+  "sourceTitle": "原味板烧鸡腿麦满分 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "breakfast",
+   "chicken",
+   "grilled",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "烤味酱/松饼"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "mcd-cn-cone",
+  "brand": "麦当劳",
+  "productName": "圆筒冰淇淋",
+  "menuCategory": "甜品",
+  "emoji": "🍦",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 93.0,
+  "proteinG": 2.0,
+  "carbsG": 14.0,
+  "fatG": 3.0,
+  "fiberG": null,
+  "sodiumMg": 36.0,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "official_menu",
+  "sourceUrl": "https://www.mcdonalds.com.cn/product/Cone",
+  "sourceTitle": "圆筒冰淇淋 | 麦当劳官网产品页",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "dessert",
+   "ice_cream"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "圆筒"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "kfc-cn-jin-cui-ji-tui-bao",
+  "brand": "肯德基",
+  "productName": "劲脆鸡腿堡",
+  "menuCategory": "汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 533.0,
+  "proteinG": 24.9,
+  "carbsG": 43.8,
+  "fatG": 28.3,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   469.0,
+   597.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/热量营养/肯德基/劲脆鸡腿堡/1个",
+  "sourceTitle": "劲脆鸡腿堡 - 肯德基 热量与营养 | fatsecret.cn",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "fried_chicken",
+   "core_sku"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "沙拉酱份量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-xiang-tian-yu-mi-bei",
+  "brand": "肯德基",
+  "productName": "香甜玉米杯",
+  "menuCategory": "缤纷小食",
+  "emoji": "🌽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "杯(克重未官方公开)",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": 11.5,
+  "energyRangeKcal": [
+   70.0,
+   125.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://nlc.chinanutri.cn/fq/foodinfo/1257.html",
+  "sourceTitle": "甜玉米籽粒(肯德基) - 食物营养成分查询平台",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "side",
+   "vegetable",
+   "low_calorie",
+   "diet_friendly",
+   "whole_grain"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "杯装实际克重未官方公开，导致三源无法在同一基准对齐",
+   "是否加糖/黄油未说明"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-xin-orlean-kao-chi",
+  "brand": "肯德基",
+  "productName": "新奥尔良烤翅",
+  "menuCategory": "翅类",
+  "emoji": "🍗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "克",
+  "energyKcal": 239.0,
+  "proteinG": 22.1,
+  "carbsG": 6.8,
+  "fatG": 13.8,
+  "fiberG": null,
+  "sodiumMg": 1263.3,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 80,
+   "max": 110,
+   "basis": "estimate",
+   "note": "2翅可食部估重·无官方份重"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://nlc.chinanutri.cn/fq/foodinfo/1255.html",
+  "sourceTitle": "新奥尔良鸡翅(肯德基) - 食物营养成分查询平台",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "chicken",
+   "grilled",
+   "high_protein",
+   "core_sku",
+   "high_sodium",
+   "diet_friendly_candidate"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "CDC 可食部 70%（带骨）",
+   "钠极高（1263mg/100g），减脂/控压语境需注意",
+   "按对/按桶售卖"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "kfc-cn-shu-tiao",
+  "brand": "肯德基",
+  "productName": "薯条",
+  "menuCategory": "缤纷小食",
+  "emoji": "🌽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "克",
+  "energyKcal": 308.0,
+  "proteinG": 4.3,
+  "carbsG": 40.5,
+  "fatG": 15.5,
+  "fiberG": null,
+  "sodiumMg": 58.2,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 130,
+   "basis": "estimate",
+   "note": "中份估重·无官方份重"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://nlc.chinanutri.cn/fq/foodinfo/1258.html",
+  "sourceTitle": "薯条(肯德基) - 食物营养成分查询平台",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "side",
+   "fried",
+   "carb",
+   "core_sku",
+   "high_calorie"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "小/中/大实际克重未官方公开，份级能量随规格线性变化",
+   "油炸用油批次与沥油程度"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-lao-bei-jing-ji-rou-juan",
+  "brand": "肯德基",
+  "productName": "老北京鸡肉卷",
+  "menuCategory": "轻松卷类",
+  "emoji": "🍗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "克",
+  "energyKcal": 256.0,
+  "proteinG": 10.1,
+  "carbsG": 25.2,
+  "fatG": 13.1,
+  "fiberG": null,
+  "sodiumMg": 816.1,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 200,
+   "max": 250,
+   "basis": "estimate",
+   "note": "1卷估重·无官方份重"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://nlc.chinanutri.cn/fq/foodinfo/1252.html",
+  "sourceTitle": "鸡肉卷(肯德基) - 食物营养成分查询平台",
+  "sourceDate": "2026-09-18",
+  "confidence": "A",
+  "tags": [
+   "wrap",
+   "fried_chicken",
+   "core_sku",
+   "high_sodium"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "甜面酱/沙拉酱份量",
+   "CDC 样本为历史配方，与当前配方可能有差异",
+   "实际单只克重未官方公开"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "kfc-cn-jin-bao-ji-mi-hua",
+  "brand": "肯德基",
+  "productName": "劲爆鸡米花",
+  "menuCategory": "缤纷小食",
+  "emoji": "🌽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_estimated_range",
+  "servingSize": "100",
+  "servingUnit": "克",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": 895.3,
+  "energyRangeKcal": [
+   239.0,
+   304.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://nlc.chinanutri.cn/fq/foodinfo/1256.html",
+  "sourceTitle": "劲爆鸡米花(肯德基) - 食物营养成分查询平台",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "side",
+   "fried_chicken",
+   "high_calorie",
+   "core_sku"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "两源能量差 27%，未解决",
+   "小/大规格克重未官方公开",
+   "裹粉比例批次差异"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-006-nongjiaxiaochaorou-jidangan",
+  "brand": "老乡鸡",
+  "productName": "农家小炒肉（鸡蛋干版）",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 191.0,
+  "proteinG": 11.5,
+  "carbsG": 4.0,
+  "fatG": 14.5,
+  "fiberG": null,
+  "sodiumMg": 754.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 150,
+   "max": 200,
+   "basis": "estimate",
+   "note": "1份估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "moderate_protein",
+   "stir_fry"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "炒菜烹调油用量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-099-nongjiazhengdan",
+  "brand": "老乡鸡",
+  "productName": "农家蒸蛋",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 38.0,
+  "proteinG": 3.3,
+  "carbsG": 0.7,
+  "fatG": 2.4,
+  "fiberG": null,
+  "sodiumMg": 471.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 150,
+   "basis": "estimate",
+   "note": "1份估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "fat_loss_friendly",
+   "steamed_or_stewed"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-057-lujitui",
+  "brand": "老乡鸡",
+  "productName": "卤鸡腿",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 175.0,
+  "proteinG": 24.6,
+  "carbsG": 1.7,
+  "fatG": 7.7,
+  "fiberG": null,
+  "sodiumMg": 604.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 130,
+   "basis": "estimate",
+   "note": "1只估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "酱汁/糖油量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-021-sanbeiji",
+  "brand": "老乡鸡",
+  "productName": "三杯鸡",
+  "menuCategory": "正餐菜品",
+  "emoji": "🍽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 249.0,
+  "proteinG": 14.5,
+  "carbsG": 10.5,
+  "fatG": 16.7,
+  "fiberG": null,
+  "sodiumMg": 589.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 150,
+   "max": 200,
+   "basis": "estimate",
+   "note": "1份估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "main_dish",
+   "moderate_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "pick-lxj-01",
+  "brand": "老乡鸡",
+  "productName": "小份糙米饭+卤鸡腿+青椒炒豆芽+白菜炖豆腐",
+  "menuCategory": "减脂组合",
+  "emoji": "🍚",
+  "itemType": "custom_combo",
+  "comboComponents": "staple=小份糙米饭; protein=卤鸡腿; veg1=青椒炒豆芽; veg2=白菜炖豆腐",
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "套",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   530.0,
+   640.0
+  ],
+  "demoPortionG": {
+   "min": 150,
+   "max": 200,
+   "basis": "estimate",
+   "note": "小份估重·官方仅per-100g"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/p/a3m6v66r/",
+  "sourceTitle": "老乡鸡轻养四部曲·用户真实反馈",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "chinese",
+   "combo",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "炒菜油量"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "subway-cn-6in-turkey-breast",
+  "brand": "Subway 赛百味中国",
+  "productName": "火鸡胸三明治(6英寸)",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "个(6英寸)",
+  "energyKcal": null,
+  "proteinG": 22.0,
+  "carbsG": 38.0,
+  "fatG": 4.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   270.0,
+   315.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/Diary.aspx?pa=brand&mpath=subway&frc=True",
+  "sourceTitle": "fatsecret.cn Subway 产品热量/营养（第三方聚合，非官方）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "sandwich",
+   "high_protein",
+   "low_fat",
+   "fat_loss_friendly"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料",
+   "奶酪是否添加",
+   "面包种类"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "subway-cn-6in-italian-bmt",
+  "brand": "Subway 赛百味中国",
+  "productName": "意式经典BMT三明治(6英寸)",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "个(6英寸)",
+  "energyKcal": 369.0,
+  "proteinG": 21.0,
+  "carbsG": 36.0,
+  "fatG": 16.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   350.0,
+   390.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/Diary.aspx?pa=fjrd&rid=88317122",
+  "sourceTitle": "fatsecret.cn Subway Italian B.M.T.(第三方,含宏量)",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "sandwich",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料",
+   "奶酪"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "subway-cn-6in-tuna",
+  "brand": "Subway 赛百味中国",
+  "productName": "金枪鱼三明治(6英寸)",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "个(6英寸)",
+  "energyKcal": null,
+  "proteinG": 26.0,
+  "carbsG": 40.0,
+  "fatG": 20.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   380.0,
+   480.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/Diary.aspx?pa=brand&mpath=subway&frc=True",
+  "sourceTitle": "fatsecret.cn Subway 产品热量/营养（第三方聚合，非官方）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "sandwich",
+   "high_fat",
+   "high_calorie"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "金枪鱼馅中蛋黄酱比例",
+   "额外酱料",
+   "奶酪"
+  ],
+  "merchantClaims": [
+   "高蛋白"
+  ],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "subway-cn-6in-teriyaki-chicken",
+  "brand": "Subway 赛百味中国",
+  "productName": "照烧鸡三明治(6英寸)",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "个(6英寸)",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   330.0,
+   365.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/Diary.aspx?pa=brand&mpath=subway&frc=True",
+  "sourceTitle": "fatsecret.cn Subway 产品热量/营养（第三方聚合，非官方）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "sandwich"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "照烧酱含糖量",
+   "额外酱料"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "foodbowl-cn-sanwenyu-duodanbai-reweng-shala",
+  "brand": "超级碗 FOODBOWL",
+  "productName": "三文鱼多蛋白热烹沙拉",
+  "menuCategory": "热烹沙拉",
+  "emoji": "🥗",
+  "itemType": "preset_combo",
+  "comboComponents": "base=烤南瓜 + 芝士玉米 + 三色藜麦（3种慢碳水）; protein=彩椒三文鱼 + 七味豆腐 + 半颗溏心蛋（3种蛋白）; veg=西蓝花、杏鲍菇、红彩椒、黄彩椒、西葫芦、番茄（6种）; toppings=芝士玉米（含奶皮子芝士丁类）; sauce=未公开默认款",
+  "basis": "estimated_range",
+  "servingSize": "440",
+  "servingUnit": "克/份",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   434.0,
+   561.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://guanguanida.github.io/Superbowl-Calculation/",
+  "sourceTitle": "超级碗热量记录器（第三方开源热量计算器，含全组件kcal表）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "salad",
+   "preset_combo",
+   "seafood",
+   "high_protein",
+   "multi_protein",
+   "hot_food"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料（12-138kcal）",
+   "芝士玉米中的芝士量",
+   "三文鱼部位与油量",
+   "溏心蛋颗数"
+  ],
+  "merchantClaims": [
+   "官网标注 510Kcal/份（约440克/份）",
+   "精准控卡",
+   "3种优质慢碳水",
+   "菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段"
+  ],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "foodbowl-cn-dongyingong-jirou-xianshuguo",
+  "brand": "超级碗 FOODBOWL",
+  "productName": "冬阴功鸡肉鲜蔬锅",
+  "menuCategory": "鲜蔬锅",
+  "emoji": "🍽",
+  "itemType": "preset_combo",
+  "comboComponents": "base=无独立主食槽; protein=鸡胸/鸡肉片 + 北豆腐 + 蛋饺 + 温泉蛋（组成参照黄柿子鲜蔬锅官方文案，未逐项确认）; veg=8种新鲜食材（西兰花、娃娃菜、小番茄、白玉菇、甜玉米、冬瓜等，参照官方文案）; sauce=冬阴功汤底（含椰浆，脂肪偏高）",
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   285.0,
+   493.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://guanguanida.github.io/Superbowl-Calculation/",
+  "sourceTitle": "超级碗热量记录器（第三方开源热量计算器，含全组件kcal表）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "soup_pot",
+   "preset_combo",
+   "hot_food",
+   "chinese_style"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "是否喝汤（最大变量）",
+   "汤底油脂（冬阴功含椰浆）",
+   "蛋饺油量",
+   "蛋白份量"
+  ],
+  "merchantClaims": [
+   "菜单标注卡路里",
+   "减油减盐，汤也放心喝",
+   "门店每日新鲜现做",
+   "菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段"
+  ],
+  "clarifyingQuestion": {
+   "question": "汤喝了多少？",
+   "options": [
+    "全喝了",
+    "喝了一半",
+    "没怎么喝"
+   ]
+  }
+ },
+ {
+  "id": "foodbowl-cn-banban-jirou-shishu-banmian",
+  "brand": "超级碗 FOODBOWL",
+  "productName": "半半鸡肉时蔬拌面",
+  "menuCategory": "菜饭/拌面",
+  "emoji": "🍗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   325.0,
+   397.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://guanguanida.github.io/Superbowl-Calculation/",
+  "sourceTitle": "超级碗热量记录器（第三方开源热量计算器，含全组件kcal表）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "noodle",
+   "single_item",
+   "chicken",
+   "hot_food",
+   "chinese_style"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "烹调油/猪油（菜饭）",
+   "拌面酱料",
+   "面/饭实际份量",
+   "鸡肉份量"
+  ],
+  "merchantClaims": [
+   "菜单标注卡路里",
+   "中国风味 热烹轻食",
+   "菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段"
+  ],
+  "clarifyingQuestion": {
+   "question": "这份米饭大概吃了多少？",
+   "options": [
+    "小半份",
+    "大半份",
+    "基本吃完"
+   ]
+  }
+ },
+ {
+  "id": "foodbowl-cn-yamaziyou-kaoxia-superbowl",
+  "brand": "超级碗 FOODBOWL",
+  "productName": "亚麻籽油烤虾超级碗",
+  "menuCategory": "超级碗（预设）",
+  "emoji": "🥗",
+  "itemType": "preset_combo",
+  "comboComponents": "base=未公开默认款（品牌碳水槽：6种谷物饭/意式蔬菜烩饭/夏日菠菜荞麦面/双色胡萝卜焖饭/混合沙拉叶/半半）; protein=亚麻籽油烤虾; veg=未公开默认款（植物纤维槽：混合烤蔬菜/烤红黄彩椒洋葱丝/熟芝麻拌菠菜/卡真杏鲍菇/清爽西兰花/羽衣甘蓝）; toppings=未公开默认款（莎莎/碎碎槽）; sauce=未公开默认款",
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   299.0,
+   497.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://guanguanida.github.io/Superbowl-Calculation/",
+  "sourceTitle": "超级碗热量记录器（第三方开源热量计算器，含全组件kcal表）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "power_bowl",
+   "preset_combo",
+   "seafood",
+   "high_protein",
+   "low_fat",
+   "hot_food"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料（12-138kcal跨度）",
+   "碳水种类与份量（14-368kcal跨度）",
+   "碎碎/芝士丁/坚果",
+   "蔬菜烹调油"
+  ],
+  "merchantClaims": [
+   "菜单/媒体笼统宣称「一份约400-600大卡」——为 merchant_claim，未填入任何营养数值字段",
+   "菜单每款配餐旁标注卡路里（门店/小程序）"
+  ],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "shaye-cn-danbai-duoduo-jixiong-reneng-wan",
+  "brand": "沙野轻食",
+  "productName": "蛋白多多鸡胸热能碗",
+  "menuCategory": "热能碗/热轻食",
+  "emoji": "🥗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份(约500g)",
+  "energyKcal": 666.0,
+  "proteinG": 36.0,
+  "carbsG": 90.0,
+  "fatG": 18.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   653.0,
+   733.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://finance.sina.com.cn/jjxw/2021-12-08/doc-ikyamrmy7707935.shtml",
+  "sourceTitle": "上海市消保委测评热销轻食产品：沙野轻食等品牌热量低标（中国消费者报，新浪财经转载）",
+  "sourceDate": "2021-12-08",
+  "confidence": "B",
+  "tags": [
+   "hot_bowl",
+   "high_protein",
+   "lab_tested",
+   "underlabelled",
+   "flagship"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料是否计入标称（消保委：附酱样品酱料钠占整餐35%）",
+   "主食实际份量（门店差异）",
+   "烹调用油",
+   "2021配方vs2026配方差异"
+  ],
+  "merchantClaims": [
+   "外卖平台宣传页标称约385千卡/份（2021-12消保委记录，现制现售无强制误差约束）",
+   "部分宣传图小字注明『营养和热量指标为估算，仅供参考』/『热量计算为理论值，可能存在偏差』",
+   "低脂高蛋白均衡餐（2026年AIGC文转述）"
+  ],
+  "clarifyingQuestion": {
+   "question": "这份米饭大概吃了多少？",
+   "options": [
+    "小半份",
+    "大半份",
+    "基本吃完"
+   ]
+  }
+ },
+ {
+  "id": "shaye-cn-xiangjian-jixiong-limai-zaliang-wan",
+  "brand": "沙野轻食",
+  "productName": "香煎鸡胸藜麦杂粮碗（外卖亦作『烤鸡胸藜麦杂粮碗/鸡胸肉杂粮碗』）",
+  "menuCategory": "热轻食碗/杂粮碗",
+  "emoji": "🥗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": 32.0,
+  "carbsG": 50.0,
+  "fatG": 10.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   380.0,
+   500.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "semantic_estimate",
+  "sourceUrl": "https://www.sina.cn/news/article/comos_niqzxcn5105441.html",
+  "sourceTitle": "轻食沙拉外卖怎么选？沙野轻食鸡胸肉杂粮碗减脂餐深度测评+FAQ（新浪AIGC聚合文）",
+  "sourceDate": "2026-09",
+  "confidence": "C",
+  "tags": [
+   "hot_bowl",
+   "high_protein",
+   "quinoa",
+   "naming_variants"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料种类与用量（千岛/芝麻酱整包+120~160kcal）",
+   "主食份量（门店默认或双倍）",
+   "鸡胸烹饪方式与刷油",
+   "是否含南瓜/紫薯等根茎类"
+  ],
+  "merchantClaims": [
+   "外卖平台标注380-480大卡/份（AIGC文转述，未直接抓取，blocked）",
+   "低卡/减脂标签"
+  ],
+  "clarifyingQuestion": {
+   "question": "这份的酱/麻酱加了多少？",
+   "options": [
+    "没有",
+    "一点",
+    "正常量"
+   ]
+  }
+ },
+ {
+  "id": "shaye-cn-taishi-dabao-jixiongruo-sui-culiang-wan",
+  "brand": "沙野轻食",
+  "productName": "泰式打抛鸡胸肉碎粗粮碗",
+  "menuCategory": "热轻食碗/粗粮碗",
+  "emoji": "🍗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": 27.0,
+  "carbsG": 47.0,
+  "fatG": 10.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   400.0,
+   560.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "semantic_estimate",
+  "sourceUrl": "https://www.sina.cn/news/article/comos_nirranu6170407.html",
+  "sourceTitle": "沙野轻食值得点吗？3个维度拆解这家爆款健康低脂轻食店+FAQ（新浪AIGC聚合文）",
+  "sourceDate": "2026-09-13",
+  "confidence": "C",
+  "tags": [
+   "hot_bowl",
+   "thai_flavor",
+   "minced_chicken"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "打抛炒制用油量",
+   "主食份量",
+   "肉碎肥瘦比"
+  ],
+  "merchantClaims": [
+   "约350大卡/份（AIGC转述）",
+   "清淡、低负担"
+  ],
+  "clarifyingQuestion": {
+   "question": "这份米饭大概吃了多少？",
+   "options": [
+    "小半份",
+    "大半份",
+    "基本吃完"
+   ]
+  }
+ },
+ {
+  "id": "micun-cn-kaoniurou-banfan",
+  "brand": "米村拌饭",
+  "productName": "烤牛肉拌饭",
+  "menuCategory": "经典拌饭（外卖金碗拌饭系列）",
+  "emoji": "🍚",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 619.0,
+  "proteinG": 28.0,
+  "carbsG": 84.0,
+  "fatG": 19.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   545.0,
+   694.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "http://m.toutiao.com/group/7680169194310091283/?upstream_biz=VolcEngine",
+  "sourceTitle": "我拆了4份米村拌饭，发现减脂最大的坑根本不是米饭（营养师谷传玲）",
+  "sourceDate": "2026-08-31",
+  "confidence": "C",
+  "tags": [
+   "bibimbap",
+   "beef",
+   "high_protein",
+   "core_sku",
+   "delivery_available"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "拌饭酱是否放/放多少（30g整包≈62–73 kcal）",
+   "芝麻海苔碎份量（5g≈30 kcal / 13g≈70 kcal）",
+   "米饭实际份量（门店≈300g，堂食可免费续）",
+   "碗底/烹调油残留（≈5g≈45 kcal）"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份的酱/麻酱加了多少？",
+   "options": [
+    "没有",
+    "一点",
+    "正常量"
+   ]
+  }
+ },
+ {
+  "id": "micun-cn-zhaoshao-jitui-banfan",
+  "brand": "米村拌饭",
+  "productName": "照烧鸡腿肉拌饭",
+  "menuCategory": "经典拌饭（外卖金碗拌饭系列）",
+  "emoji": "🍗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 626.0,
+  "proteinG": 35.0,
+  "carbsG": 86.0,
+  "fatG": 22.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   551.0,
+   701.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "http://m.toutiao.com/group/7680169194310091283/?upstream_biz=VolcEngine",
+  "sourceTitle": "我拆了4份米村拌饭，发现减脂最大的坑根本不是米饭（营养师谷传玲）",
+  "sourceDate": "2026-08-31",
+  "confidence": "C",
+  "tags": [
+   "bibimbap",
+   "chicken",
+   "high_protein",
+   "core_sku",
+   "delivery_available"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "拌饭酱是否放/放多少（30g整包≈62–73 kcal）",
+   "芝麻海苔碎份量（5g≈30 kcal / 13g≈70 kcal）",
+   "米饭实际份量（门店≈300g，堂食可免费续）",
+   "碗底/烹调油残留（≈5g≈45 kcal）",
+   "照烧汁含糖量（咸甜口，糖未单独披露）",
+   "堂食石锅版锅巴（本条为外卖/平盘口径）"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份的酱/麻酱加了多少？",
+   "options": [
+    "没有",
+    "一点",
+    "正常量"
+   ]
+  }
+ },
+ {
+  "id": "micun-cn-wugu-zaliang-fan",
+  "brand": "米村拌饭",
+  "productName": "五谷杂粮饭（轻食系列主食）",
+  "menuCategory": "主食",
+  "emoji": "🍚",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 267.0,
+  "proteinG": 7.0,
+  "carbsG": 53.0,
+  "fatG": 2.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   240.0,
+   294.0
+  ],
+  "demoPortionG": {
+   "min": 150,
+   "max": 200,
+   "basis": "estimate",
+   "note": "1份估重"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "http://m.toutiao.com/group/7680169194310091283/?upstream_biz=VolcEngine",
+  "sourceTitle": "我拆了4份米村拌饭，发现减脂最大的坑根本不是米饭（营养师谷传玲）",
+  "sourceDate": "2026-08-31",
+  "confidence": "C",
+  "tags": [
+   "staple",
+   "multigrain",
+   "carb_source",
+   "higher_fiber",
+   "light_meal"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "实际克重（≈230g）",
+   "糯米占比（升糖与能量密度）"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "tastien-cn-xiang-la-nen-ji-rou",
+  "brand": "塔斯汀中国汉堡",
+  "productName": "湘辣嫩鸡肉中国汉堡",
+  "menuCategory": "中国汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": null,
+  "proteinG": 30.0,
+  "carbsG": 40.0,
+  "fatG": 14.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   325.0,
+   425.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/p/avvoonk9/",
+  "sourceTitle": "塔斯汀汉堡500kcal以内低卡吃法（源自小红薯：怡宝不渴）",
+  "sourceDate": "2026-02-05",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "chicken",
+   "spicy",
+   "low_calorie_option"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料份量（甜面酱/沙拉酱/特调酱，UGC 口径 -70~100 kcal）",
+   "手擀现烤堡胚大小与厚度批次差异（门店现擀，非标准化）",
+   "油炸鸡排裹粉与吸油率（同款不同锅次差异大）",
+   "门店装配份量不标准（肉块数/蔬菜量）",
+   "是否为烤制或油炸鸡肉（来源未说明）"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "tastien-cn-duo-zhi-niu-rou",
+  "brand": "塔斯汀中国汉堡",
+  "productName": "多汁牛肉中国汉堡",
+  "menuCategory": "中国汉堡",
+  "emoji": "🍔",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "个",
+  "energyKcal": 483.0,
+  "proteinG": 28.0,
+  "carbsG": 40.0,
+  "fatG": 18.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   425.0,
+   541.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.m.smzdm.com/zz/p/axdqkw44/",
+  "sourceTitle": "塔斯汀合集(带热量)·减脂期点单技巧（糕冷小美，来自抖音）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "beef"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱料份量（甜面酱/沙拉酱/特调酱，UGC 口径 -70~100 kcal）",
+   "手擀现烤堡胚大小与厚度批次差异（门店现擀，非标准化）",
+   "油炸鸡排裹粉与吸油率（同款不同锅次差异大）",
+   "门店装配份量不标准（肉块数/蔬菜量）",
+   "炸洋葱圈（是否保留）",
+   "牛肉饼厚度"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "tastien-cn-ta-ta-ji-kuai",
+  "brand": "塔斯汀中国汉堡",
+  "productName": "塔塔鸡块",
+  "menuCategory": "塔塔小食",
+  "emoji": "🌽",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 218.0,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   192.0,
+   244.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.m.smzdm.com/zz/p/ax6oznm9/",
+  "sourceTitle": "谁说减脂不能吃汉堡！塔斯汀9款低卡搭配！（搞笑女的吃饭日常，来自小红书）",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "side",
+   "fried_chicken",
+   "derived_value"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner",
+   "snack"
+  ],
+  "uncertaintyDrivers": [
+   "油炸吸油率与复炸次数",
+   "实际份数/克重（门店按份舀取，非称重）",
+   "是否蘸酱（番茄酱/甜辣酱）",
+   "块数（团购口径 3 块/份，门店可能不同）",
+   "本值由两来源相减推导，误差会叠加"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "familymart-cn-quanmai-xunji-shala-sanmingzhi",
+  "brand": "全家便利店",
+  "productName": "全麦熏鸡沙拉三明治",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "108",
+  "servingUnit": "g（每份净含量）",
+  "energyKcal": 253.4,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/p/av7o8nv7/",
+  "sourceTitle": "吃光106个三明治和饭团，得出了这份便利店早餐报告(魔都食鉴局)",
+  "sourceDate": "2020-08-14",
+  "confidence": "B",
+  "tags": [
+   "sandwich",
+   "whole_wheat",
+   "chicken"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "沙拉酱/蛋黄酱用量",
+   "全麦吐司实际厚度",
+   "熏鸡肉份量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "familymart-cn-ludan-xiangchang-zimi-cifantuan",
+  "brand": "全家便利店",
+  "productName": "卤蛋香肠紫米粢饭团",
+  "menuCategory": "饭团",
+  "emoji": "🍙",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "176",
+  "servingUnit": "g（每份净含量）",
+  "energyKcal": 338.1,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/p/av7o8nv7/",
+  "sourceTitle": "吃光106个三明治和饭团，得出了这份便利店早餐报告(魔都食鉴局)",
+  "sourceDate": "2020-08-14",
+  "confidence": "B",
+  "tags": [
+   "onigiri",
+   "purple_rice",
+   "sausage",
+   "egg"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "肉肠/油条脂肪",
+   "紫米实际份量",
+   "是否含额外酱料"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "familymart-cn-aoerliang-kaoji-dakou-fantuan",
+  "brand": "全家便利店",
+  "productName": "奥尔良风味烤鸡大口饭团",
+  "menuCategory": "饭团",
+  "emoji": "🍙",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g（每100g基准；包装净含量未在来源披露）",
+  "energyKcal": 176.0,
+  "proteinG": 5.4,
+  "carbsG": 28.8,
+  "fatG": 4.1,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 130,
+   "max": 160,
+   "basis": "estimate",
+   "note": "1个估重·来源仅per-100g"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.xuanshiwu.com/foods/1059818.html",
+  "sourceTitle": "选食物网 · 奥尔良风味烤鸡大口饭团(每100g营养成分)",
+  "sourceDate": "2024-12-11",
+  "confidence": "B",
+  "tags": [
+   "onigiri",
+   "chicken",
+   "carb"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "包装净含量未在来源披露(按每100g记录)",
+   "是否含酱包/实际酱量",
+   "门店与批次配方差异"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "familymart-cn-quanmai-huotui-dan-shala-sanmingzhi",
+  "brand": "全家便利店",
+  "productName": "全麦火腿蛋沙拉三明治",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g（每100g基准；包装净含量未在来源披露）",
+  "energyKcal": 243.0,
+  "proteinG": 9.6,
+  "carbsG": 29.1,
+  "fatG": 9.5,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 130,
+   "basis": "estimate",
+   "note": "1个估重·来源仅per-100g"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.xuanshiwu.com/foods/400273.html",
+  "sourceTitle": "选食物网 · 全麦火腿蛋沙拉三明治(每100g营养成分)",
+  "sourceDate": "2024-10-20",
+  "confidence": "B",
+  "tags": [
+   "sandwich",
+   "whole_wheat",
+   "ham",
+   "egg"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "包装净含量未在来源披露(按每100g记录)",
+   "是否含酱包/实际酱量",
+   "门店与批次配方差异"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "lawson-cn-wholewheat-chicken-breast-sandwich",
+  "brand": "罗森",
+  "productName": "全麦鸡胸肉三明治",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "克",
+  "energyKcal": 148.0,
+  "proteinG": 7.9,
+  "carbsG": 15.0,
+  "fatG": 4.2,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 100,
+   "max": 120,
+   "basis": "estimate",
+   "note": "1个估重·来源仅per-100g"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/%E7%83%AD%E9%87%8F%E8%90%A5%E5%85%BB/%E7%BD%97%E6%A3%AE/%E5%85%A8%E9%BA%A6%E9%B8%A1%E8%83%B8%E8%82%89%E4%B8%89%E6%98%8E%E6%B2%BB/100%E5%85%8B",
+  "sourceTitle": "fatsecret 罗森 全麦鸡胸肉三明治（每100g）",
+  "sourceDate": "2026-09-18",
+  "confidence": "B",
+  "tags": [
+   "sandwich",
+   "wholewheat",
+   "chicken_breast",
+   "high_protein",
+   "diet_staple"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "实际净含量浮动大（标195g实测可达304g）",
+   "酱包是否含在内"
+  ],
+  "merchantClaims": [
+   "低卡",
+   "高蛋白（营销口径，未核实）"
+  ],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "lawson-cn-devil-onigiri-original",
+  "brand": "罗森",
+  "productName": "恶魔的饭团(原味)",
+  "menuCategory": "饭团",
+  "emoji": "🍙",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "90",
+  "servingUnit": "克",
+  "energyKcal": 199.8,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.bilibili.com/opus/422896885286491339",
+  "sourceTitle": "吃光106个三明治和饭团，得出了这份便利店早餐报告（B站 魔都食鉴局）",
+  "sourceDate": "2020-08-13",
+  "confidence": "B",
+  "tags": [
+   "onigiri",
+   "seaweed",
+   "small_portion",
+   "viral_sku"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "净含量浮动（生产商承认克重上下浮动）",
+   "2020年规格可能已更新",
+   "宏量无来源"
+  ],
+  "merchantClaims": [
+   "日本罗森创销售记录爆红款（上市6天卖120万只）"
+  ],
+  "clarifyingQuestion": {
+   "question": "这份比平时多还是少？",
+   "options": [
+    "少一些",
+    "差不多",
+    "多一些"
+   ]
+  }
+ },
+ {
+  "id": "lawson-cn-wholewheat-smoked-chicken-sandwich",
+  "brand": "罗森",
+  "productName": "全麦烟熏鸡肉三明治",
+  "menuCategory": "三明治",
+  "emoji": "🥪",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "exact",
+  "servingSize": "85",
+  "servingUnit": "克",
+  "energyKcal": 167.4,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.bilibili.com/opus/422896885286491339",
+  "sourceTitle": "吃光106个三明治和饭团，得出了这份便利店早餐报告（B站 魔都食鉴局）",
+  "sourceDate": "2020-08-13",
+  "confidence": "B",
+  "tags": [
+   "sandwich",
+   "wholewheat",
+   "smoked_chicken",
+   "diet_staple"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "净含量浮动",
+   "2020年规格",
+   "宏量单源未采用"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "lawson-cn-five-color-vegetable-salad",
+  "brand": "罗森",
+  "productName": "五彩蔬菜沙拉",
+  "menuCategory": "沙拉",
+  "emoji": "🥗",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "克",
+  "energyKcal": 39.0,
+  "proteinG": 1.5,
+  "carbsG": 3.6,
+  "fatG": 2.1,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 80,
+   "max": 120,
+   "basis": "estimate",
+   "note": "1份估重·来源仅per-100g"
+  },
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://www.fatsecret.cn/%E7%83%AD%E9%87%8F%E8%90%A5%E5%85%BB/%E7%BD%97%E6%A3%AE/%E4%BA%94%E5%BD%A9%E8%94%AC%E8%8F%9C%E6%B2%99%E6%8B%89/100%E5%85%8B",
+  "sourceTitle": "fatsecret 罗森 五彩蔬菜沙拉（每100g）",
+  "sourceDate": "2026-09-18",
+  "confidence": "B",
+  "tags": [
+   "salad",
+   "vegetable",
+   "very_low_calorie",
+   "diet_staple",
+   "sauce_separate"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "沙拉酱是否加入",
+   "蔬菜沥水后实际克重"
+  ],
+  "merchantClaims": [
+   "低卡",
+   "高纤（营销口径）"
+  ],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "pick-kfc-01",
+  "brand": "肯德基",
+  "productName": "新奥尔良烤鸡腿堡(无酱)+香甜玉米杯+无糖可乐",
+  "menuCategory": "减脂组合",
+  "emoji": "🍔",
+  "itemType": "custom_combo",
+  "comboComponents": "burger=新奥尔良烤鸡腿堡(无酱); side=香甜玉米杯; drink=无糖可乐",
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "套",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   420.0,
+   520.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/p/a3rq7k6r/",
+  "sourceTitle": "减脂人肯德基点单攻略",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "burger",
+   "combo"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "酱"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "pick-micun-01",
+  "brand": "米村拌饭",
+  "productName": "石锅拌饭(去酱+去海苔碎)",
+  "menuCategory": "减脂组合",
+  "emoji": "🍛",
+  "itemType": "custom_combo",
+  "comboComponents": "base=米饭; veg=蔬菜; protein=肉; sauce=去; topping=去海苔碎",
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   520.0,
+   630.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/zz/p/akoekgv9/",
+  "sourceTitle": "米村拌饭全测评·500大卡怎么吃",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "rice_bowl",
+   "combo"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "拌饭酱",
+   "海苔碎",
+   "米饭份量"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份的酱/麻酱加了多少？",
+   "options": [
+    "没有",
+    "一点",
+    "正常量"
+   ]
+  }
+ },
+ {
+  "id": "pick-shaxian-01",
+  "brand": "沙县小吃",
+  "productName": "去皮鸡腿饭(米饭减半)",
+  "menuCategory": "减脂组合",
+  "emoji": "🍛",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": null,
+  "carbsG": null,
+  "fatG": null,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   470.0,
+   560.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "https://post.smzdm.com/p/a95e3ko7/",
+  "sourceTitle": "沙县减脂必点清单·去皮鸡腿饭500大卡",
+  "sourceDate": "2026-09-18",
+  "confidence": "C",
+  "tags": [
+   "chinese",
+   "rice_bowl",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "鸡皮",
+   "米饭份量",
+   "卤汁"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份米饭大概吃了多少？",
+   "options": [
+    "小半份",
+    "大半份",
+    "基本吃完"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-141-mifan",
+  "brand": "老乡鸡",
+  "productName": "米饭",
+  "menuCategory": "主食",
+  "emoji": "🍚",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 178.0,
+  "proteinG": 3.4,
+  "carbsG": 38.1,
+  "fatG": 1.1,
+  "fiberG": null,
+  "sodiumMg": 0.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 150,
+   "max": 200,
+   "basis": "estimate",
+   "note": "小份估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "staple",
+   "carb_heavy"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "主食份量",
+   "汤/酱是否饮尽"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份米饭大概吃了多少？",
+   "options": [
+    "小半份",
+    "大半份",
+    "基本吃完"
+   ]
+  }
+ },
+ {
+  "id": "laoxiangji-cn-140-hongmicaomihongshufan",
+  "brand": "老乡鸡",
+  "productName": "红米糙米红薯饭",
+  "menuCategory": "主食",
+  "emoji": "🍚",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "per_100g_exact",
+  "servingSize": "100",
+  "servingUnit": "g",
+  "energyKcal": 162.0,
+  "proteinG": 3.1,
+  "carbsG": 34.3,
+  "fatG": 1.1,
+  "fiberG": null,
+  "sodiumMg": 0.0,
+  "energyRangeKcal": null,
+  "demoPortionG": {
+   "min": 150,
+   "max": 200,
+   "basis": "estimate",
+   "note": "小份估重·官方仅per-100g"
+  },
+  "sourceType": "official_label",
+  "sourceUrl": "https://lxjchina.com.cn/upload/2026-05/177828991193340300.pdf",
+  "sourceTitle": "《老乡鸡菜品溯源报告2.0》菜品营养成分信息（每100g）",
+  "sourceDate": "2026-04-30",
+  "confidence": "A",
+  "tags": [
+   "staple",
+   "carb_heavy"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "门店实际每份克重(官方公示为每100g基准)",
+   "主食份量",
+   "汤/酱是否饮尽"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份米饭大概吃了多少？",
+   "options": [
+    "小半份",
+    "大半份",
+    "基本吃完"
+   ]
+  }
+ },
+ {
+  "id": "bf-tea-egg",
+  "brand": "便利店/通用早餐",
+  "productName": "茶叶蛋（1个约50g）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 72.0,
+  "proteinG": 6.2,
+  "carbsG": 0.4,
+  "fatG": 5.3,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   65.0,
+   80.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "China food composition table: tea egg per-100g 144kcal P12.4 F10.6",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "high_protein",
+   "bf_egg"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "bf-boiled-egg",
+  "brand": "便利店/通用早餐",
+  "productName": "即食卤蛋/水煮蛋（1个约50g）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 70.0,
+  "proteinG": 6.5,
+  "carbsG": 0.6,
+  "fatG": 5.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   63.0,
+   78.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "China food composition table: egg per-100g 140kcal P13 F10",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "high_protein",
+   "bf_egg"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "bf-greek-yogurt",
+  "brand": "便利店/通用早餐",
+  "productName": "无糖希腊酸奶（100g）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 59.0,
+  "proteinG": 10.0,
+  "carbsG": 3.6,
+  "fatG": 0.4,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   55.0,
+   70.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "generic packaged GB28050 label values, unsweetened greek yogurt per-100g",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "high_protein",
+   "bf_dairy"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "bf-milk",
+  "brand": "便利店/通用早餐",
+  "productName": "纯牛奶（250ml）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 165.0,
+  "proteinG": 8.0,
+  "carbsG": 12.0,
+  "fatG": 9.5,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   150.0,
+   180.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "generic packaged label: milk per-100ml 66kcal P3.2 F3.8 C4.8",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "high_protein",
+   "bf_dairy"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "bf-soymilk",
+  "brand": "便利店/通用早餐",
+  "productName": "无糖豆浆（300ml）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 96.0,
+  "proteinG": 9.0,
+  "carbsG": 3.6,
+  "fatG": 4.8,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   85.0,
+   110.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "generic packaged label: unsweetened soymilk per-100ml 32kcal P3 C1.2 F1.6",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "high_protein",
+   "bf_plant-milk"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "bf-wholewheat-bread",
+  "brand": "便利店/通用早餐",
+  "productName": "全麦面包（2片约80g）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 197.0,
+  "proteinG": 7.0,
+  "carbsG": 33.0,
+  "fatG": 3.4,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   180.0,
+   215.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "China food composition table: wholewheat bread per-100g 246kcal P8.8 C41 F4.2",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "bf_grain"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "bf-corn",
+  "brand": "便利店/通用早餐",
+  "productName": "蒸玉米（1根可食约200g）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 212.0,
+  "proteinG": 8.0,
+  "carbsG": 38.0,
+  "fatG": 2.4,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   180.0,
+   240.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "China food composition table: sweet corn per-100g 106kcal P4 C19.9 F1.2",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "bf_grain"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "lanzhou-noodle-standard",
+  "brand": "兰州牛肉面",
+  "productName": "兰州牛肉面（标准碗）",
+  "menuCategory": "noodles",
+  "emoji": "🍜",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "碗(约380g)",
+  "energyKcal": null,
+  "proteinG": 22.0,
+  "carbsG": 65.0,
+  "fatG": 14.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   400.0,
+   520.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "generic template: noodle 200g + beef brisket 120g + clear soup + chili oil 1tsp; anchor 456kcal/380g (chinesecalorie.com)",
+  "sourceDate": "2026-09-20",
+  "confidence": "C",
+  "tags": [
+   "noodles",
+   "chinese",
+   "refined_carb"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "面量",
+   "辣油",
+   "是否喝汤"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "汤喝了多少？",
+   "options": [
+    "全喝了",
+    "喝了一半",
+    "没怎么喝"
+   ]
+  }
+ },
+ {
+  "id": "cq-xiaomian-qing",
+  "brand": "重庆小面",
+  "productName": "重庆小面（微辣）",
+  "menuCategory": "noodles",
+  "emoji": "🍜",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": null,
+  "proteinG": 12.0,
+  "carbsG": 62.0,
+  "fatG": 16.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   380.0,
+   520.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "generic template: alkaline noodle + chili oil + sprouts/peanut; oil amount is main driver",
+  "sourceDate": "2026-09-20",
+  "confidence": "C",
+  "tags": [
+   "noodles",
+   "chinese",
+   "refined_carb"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "红油量",
+   "面量"
+  ],
+  "merchantClaims": []
+ },
+ {
+  "id": "malatang-qingdang",
+  "brand": "麻辣烫（自选）",
+  "productName": "麻辣烫（清汤 · 多菜少丸滑 · 不喝汤）",
+  "menuCategory": "hotpot",
+  "emoji": "🍲",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "碗(约500g)",
+  "energyKcal": null,
+  "proteinG": 25.0,
+  "carbsG": 45.0,
+  "fatG": 18.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   450.0,
+   580.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "generic template: veg-heavy self-picked malatang, clear broth, no soup drinking; anchored to tpl-malatang range low end",
+  "sourceDate": "2026-09-20",
+  "confidence": "C",
+  "tags": [
+   "hotpot",
+   "chinese",
+   "vegetable_rich",
+   "high_protein"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "麻酱",
+   "丸滑比例",
+   "称重"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "这份的酱/麻酱加了多少？",
+   "options": [
+    "没有",
+    "一点",
+    "正常量"
+   ]
+  }
+ },
+ {
+  "id": "tanglao-beef-cup",
+  "brand": "左庭右院",
+  "productName": "鲜牛肉烫捞杯（清汤）",
+  "menuCategory": "hotpot",
+  "emoji": "🍲",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_range",
+  "servingSize": "1",
+  "servingUnit": "杯",
+  "energyKcal": null,
+  "proteinG": 30.0,
+  "carbsG": 40.0,
+  "fatG": 20.0,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   480.0,
+   650.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "component estimate: beef 120g + veg 200g + glass noodle/potato 100g + clear broth; brand has no published nutrition table",
+  "sourceDate": "2026-09-20",
+  "confidence": "C",
+  "tags": [
+   "hotpot",
+   "chinese",
+   "high_protein",
+   "vegetable_rich"
+  ],
+  "mealTypes": [
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [
+   "牛肉份量",
+   "粉丝选择",
+   "酱料"
+  ],
+  "merchantClaims": [],
+  "clarifyingQuestion": {
+   "question": "酱料加了吗？",
+   "options": [
+    "没加",
+    "加了一点",
+    "正常加"
+   ]
+  }
+ },
+ {
+  "id": "bf-oatmeal",
+  "brand": "便利店/通用早餐",
+  "productName": "即食燕麦片（40g，冲牛奶另计）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 151.0,
+  "proteinG": 5.4,
+  "carbsG": 26.4,
+  "fatG": 2.7,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   140.0,
+   165.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "China food composition table: rolled oats per-100g 377kcal P13.5 C66 F6.7",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "bf_grain"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ },
+ {
+  "id": "bf-banana",
+  "brand": "便利店/通用早餐",
+  "productName": "香蕉（1根可食约120g）",
+  "menuCategory": "早餐",
+  "emoji": "🍳",
+  "itemType": "single_item",
+  "comboComponents": null,
+  "basis": "estimated_point",
+  "servingSize": "1",
+  "servingUnit": "份",
+  "energyKcal": 112.0,
+  "proteinG": 1.7,
+  "carbsG": 26.4,
+  "fatG": 0.2,
+  "fiberG": null,
+  "sodiumMg": null,
+  "energyRangeKcal": [
+   100.0,
+   125.0
+  ],
+  "demoPortionG": null,
+  "sourceType": "third_party_analysis",
+  "sourceUrl": "",
+  "sourceTitle": "China food composition table: banana per-100g 93kcal P1.4 C22 F0.2",
+  "sourceDate": "2026-09-19",
+  "confidence": "C",
+  "tags": [
+   "breakfast",
+   "bf_fruit"
+  ],
+  "mealTypes": [
+   "breakfast",
+   "lunch",
+   "dinner"
+  ],
+  "uncertaintyDrivers": [],
+  "merchantClaims": []
+ }
+]
